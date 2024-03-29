@@ -1,0 +1,659 @@
+"","Team","net_rating","off_eFG","off_tov_rate","off_reb_rate","off_ft_fga_ratio","def_eFG","def_tov_rate","def_reb_rate","def_ft_fga_ratio","season","top_3_players","top_3_vorp","best_player","best_vorp","clutch_plus_minus"
+"1","Atlanta Hawks",-3.8,0.476,15.7,27.9,0.248,0.469,12.1,70.4,0.222,2003,"Jason Terry, Shareef Abdur-Rahim, Glenn Robinson",7.4,"Jason Terry",3,0.4
+"2","Atlanta Hawks",-5.1,0.465,15.4,28.6,0.235,0.476,13.1,70.5,0.234,2004,"Shareef Abdur-Rahim, Jason Terry, Stephen Jackson",5.3,"Shareef Abdur-Rahim",2.1,-1.6
+"3","Atlanta Hawks",-10.5,0.464,14.9,30.7,0.212,0.513,14,72.1,0.289,2005,"Antoine Walker, Josh Childress, Josh Smith",2.5,"Antoine Walker",0.9,-2
+"4","Atlanta Hawks",-5.2,0.486,14.7,31.4,0.255,0.513,14.1,69.5,0.275,2006,"Joe Johnson, Josh Childress, Josh Smith",5.7,"Joe Johnson",2.5,-1.3
+"5","Atlanta Hawks",-5.3,0.471,15.1,29.2,0.263,0.503,14.5,70.9,0.268,2007,"Joe Johnson, Josh Smith, Josh Childress",7.3,"Joe Johnson",2.7,-0.6
+"6","Atlanta Hawks",-2,0.483,14,29.7,0.263,0.501,12.9,71.7,0.217,2008,"Josh Smith, Joe Johnson, Josh Childress",8.7,"Josh Smith",3.7,-1.1
+"7","Atlanta Hawks",1.7,0.504,12.5,26,0.238,0.494,13.2,71.6,0.21,2009,"Joe Johnson, Mike Bibby, Josh Smith",8.2,"Joe Johnson",3.1,1.1
+"8","Atlanta Hawks",5.2,0.506,11.4,28.2,0.213,0.496,13.2,72.7,0.208,2010,"Josh Smith, Joe Johnson, Al Horford",11.6,"Josh Smith",5.1,0.7
+"9","Atlanta Hawks",-0.9,0.501,13.5,23.4,0.209,0.495,12.3,74.6,0.211,2011,"Al Horford, Josh Smith, Joe Johnson",8.2,"Al Horford",3.9,0.9
+"10","Atlanta Hawks",3.7,0.5,13.4,23.9,0.192,0.48,14.4,74.4,0.186,2012,"Josh Smith, Joe Johnson, Jeff Teague",7.3,"Josh Smith",3.3,2.1
+"11","Atlanta Hawks",0.4,0.517,14.2,22.2,0.174,0.496,14.2,73.6,0.181,2013,"Al Horford, Josh Smith, Kyle Korver",7.4,"Al Horford",2.7,0.6
+"12","Atlanta Hawks",-0.5,0.515,14.3,21,0.208,0.51,14,74.4,0.196,2014,"Paul Millsap, Kyle Korver, DeMarre Carroll",6.5,"Paul Millsap",3,0.2
+"13","Atlanta Hawks",5.8,0.527,13.5,21.4,0.201,0.492,14.9,73.4,0.185,2015,"Al Horford, Paul Millsap, Kyle Korver",9.9,"Al Horford",3.6,2.1
+"14","Atlanta Hawks",3.7,0.516,13.8,19.1,0.185,0.48,14.4,74.6,0.194,2016,"Paul Millsap, Al Horford, Jeff Teague",9.9,"Paul Millsap",4.1,0.6
+"15","Atlanta Hawks",-0.8,0.504,14.2,23.6,0.215,0.507,13.8,76.1,0.179,2017,"Paul Millsap, Dwight Howard, Tim Hardaway Jr.",5.7,"Paul Millsap",2.4,1
+"16","Atlanta Hawks",-5.6,0.512,14.1,21.1,0.185,0.536,13.6,76.2,0.183,2018,"Kent Bazemore, John Collins, Dewayne Dedmon",2.8,"Kent Bazemore",1.2,-0.9
+"17","Atlanta Hawks",-5.8,0.522,14.3,24.7,0.192,0.541,12.8,76.4,0.237,2019,"John Collins, Dewayne Dedmon, Trae Young",3.2,"John Collins",1.3,0.4
+"18","Atlanta Hawks",-7.6,0.515,13.8,21.6,0.204,0.543,12.7,74.9,0.233,2020,"Trae Young, John Collins, Jabari Parker",5.2,"Trae Young",3.1,-0.9
+"19","Atlanta Hawks",2.4,0.539,11.9,24.4,0.226,0.53,11.1,77.8,0.19,2021,"Trae Young, Clint Capela, John Collins",7.2,"Trae Young",3,-0.6
+"20","Atlanta Hawks",1.6,0.543,10.8,23,0.205,0.543,11.5,76.9,0.177,2022,"Trae Young, Clint Capela, Delon Wright",8.5,"Trae Young",4.8,-0.7
+"21","Atlanta Hawks",0.3,0.541,11.2,25.1,0.2,0.552,12.4,75.8,0.206,2023,"Trae Young, Dejounte Murray, Clint Capela",7.3,"Trae Young",3.4,-1.5
+"22","Atlanta Hawks",-1.5,0.539,11.3,27.8,0.207,0.571,12.4,74.4,0.192,2024,"Dejounte Murray, Trae Young, Jalen Johnson",5.8,"Dejounte Murray",2.3,-1.3
+"23","Boston Celtics",-0.4,0.47,13.4,23.6,0.227,0.471,15.1,72.5,0.242,2003,"Paul Pierce*, Tony Delk, Antoine Walker",8.1,"Paul Pierce*",5.4,0.3
+"24","Boston Celtics",-1.6,0.486,15.4,25.2,0.245,0.479,15.7,69.5,0.24,2004,"Paul Pierce*, Ricky Davis, Mike James",5.3,"Paul Pierce*",3.2,-0.1
+"25","Boston Celtics",0.9,0.501,14.7,27.2,0.273,0.481,14.2,70.1,0.274,2005,"Paul Pierce*, Raef LaFrentz, Gary Payton*",8.5,"Paul Pierce*",4.9,0.2
+"26","Boston Celtics",-1.7,0.504,15.7,25.5,0.263,0.49,13.8,72.8,0.282,2006,"Paul Pierce*, Delonte West, Raef LaFrentz",8.7,"Paul Pierce*",5.3,-1
+"27","Boston Celtics",-3.7,0.479,15.4,27,0.259,0.502,14.5,73.8,0.28,2007,"Paul Pierce*, Al Jefferson, Delonte West",5.6,"Paul Pierce*",2.7,-0.3
+"28","Boston Celtics",11.3,0.522,14.7,26.6,0.267,0.457,15.2,74.4,0.253,2008,"Kevin Garnett*, Paul Pierce*, Ray Allen*",14.3,"Kevin Garnett*",6,0.1
+"29","Boston Celtics",8.2,0.528,15,27.9,0.251,0.47,14,75.6,0.253,2009,"Ray Allen*, Rajon Rondo, Paul Pierce*",12.2,"Ray Allen*",4.3,1.3
+"30","Boston Celtics",3.9,0.522,14.5,22.8,0.248,0.487,14.9,73.8,0.251,2010,"Rajon Rondo, Paul Pierce*, Kevin Garnett*",10.1,"Rajon Rondo",4.2,0.9
+"31","Boston Celtics",5.9,0.519,14.5,21.1,0.235,0.469,14.8,74.7,0.235,2011,"Paul Pierce*, Kevin Garnett*, Ray Allen*",12,"Paul Pierce*",4.6,0.4
+"32","Boston Celtics",2.8,0.496,14.7,19.7,0.2,0.452,14.9,72.4,0.216,2012,"Paul Pierce*, Kevin Garnett*, Rajon Rondo",8.2,"Paul Pierce*",3.2,0.6
+"33","Boston Celtics",-0.2,0.503,14.1,20.1,0.204,0.482,14.2,73.3,0.216,2013,"Paul Pierce*, Kevin Garnett*, Rajon Rondo",7.4,"Paul Pierce*",3.6,-0.3
+"34","Boston Celtics",-4.8,0.477,14.2,27.4,0.193,0.505,13.4,74.2,0.227,2014,"Kris Humphries, Jordan Crawford, Rajon Rondo",3.3,"Kris Humphries",1,-2
+"35","Boston Celtics",0.2,0.489,12.5,24.7,0.176,0.494,13.7,75,0.208,2015,"Tyler Zeller, Jared Sullinger, Brandon Bass",3.5,"Tyler Zeller",1.3,0
+"36","Boston Celtics",3.2,0.488,12.1,25.1,0.208,0.487,14.6,74.6,0.231,2016,"Isaiah Thomas, Jae Crowder, Kelly Olynyk",9.5,"Isaiah Thomas",4.2,0.3
+"37","Boston Celtics",2.8,0.525,12.2,21.2,0.22,0.503,12.6,75.3,0.223,2017,"Isaiah Thomas, Al Horford, Jae Crowder",10.3,"Isaiah Thomas",5.6,1.6
+"38","Boston Celtics",3.7,0.518,13,21.5,0.188,0.495,13,78.4,0.191,2018,"Kyrie Irving, Al Horford, Terry Rozier",10.3,"Kyrie Irving",4.5,0.1
+"39","Boston Celtics",4.4,0.534,11.5,21.6,0.173,0.514,13.4,77,0.198,2019,"Kyrie Irving, Al Horford, Marcus Smart",10.2,"Kyrie Irving",5.1,0.7
+"40","Boston Celtics",6.3,0.531,12.2,23.9,0.207,0.509,13.5,77.4,0.215,2020,"Jayson Tatum, Kemba Walker, Gordon Hayward",8.3,"Jayson Tatum",3.4,0.6
+"41","Boston Celtics",1.5,0.543,12.5,24.3,0.181,0.539,12.8,78.1,0.215,2021,"Jayson Tatum, Jaylen Brown, Robert Williams",7.7,"Jayson Tatum",3.4,-1.3
+"42","Boston Celtics",7.5,0.542,12.4,24,0.195,0.502,12.5,77.3,0.183,2022,"Jayson Tatum, Robert Williams, Al Horford",11.4,"Jayson Tatum",4.8,-0.7
+"43","Boston Celtics",6.5,0.566,12,22.1,0.197,0.528,11.3,78.5,0.18,2023,"Jayson Tatum, Derrick White, Al Horford",10.2,"Jayson Tatum",5.1,0.9
+"44","Boston Celtics",11.8,0.578,10.8,25,0.187,0.524,10.7,76.5,0.149,2024,"Jayson Tatum, Derrick White, Kristaps Porziņģis",10.2,"Jayson Tatum",4.4,2.2
+"45","Brooklyn Nets",5.7,0.468,13.8,28.7,0.252,0.46,15.7,73.1,0.225,2003,"Jason Kidd*, Kerry Kittles, Richard Jefferson",12.3,"Jason Kidd*",6.5,-1.4
+"46","Brooklyn Nets",2.8,0.471,14.4,25.9,0.219,0.46,15.7,73.9,0.221,2004,"Jason Kidd*, Richard Jefferson, Kerry Kittles",10.2,"Jason Kidd*",4.2,0.1
+"47","Brooklyn Nets",-1.7,0.463,13.7,25.5,0.242,0.479,15.2,73.2,0.278,2005,"Vince Carter, Jason Kidd*, Richard Jefferson",10.4,"Vince Carter",5.1,1.2
+"48","Brooklyn Nets",1.5,0.478,13.3,24,0.262,0.476,14,76.3,0.266,2006,"Jason Kidd*, Vince Carter, Richard Jefferson",14.6,"Jason Kidd*",5.5,0.7
+"49","Brooklyn Nets",-0.9,0.504,14.2,24.6,0.245,0.49,13.7,74.4,0.266,2007,"Jason Kidd*, Vince Carter, Boštjan Nachbar",10.4,"Jason Kidd*",4.9,-0.8
+"50","Brooklyn Nets",-5.4,0.481,14.2,26.6,0.255,0.497,12.7,73.8,0.271,2008,"Vince Carter, Jason Kidd*, Richard Jefferson",7.1,"Vince Carter",3.3,0.4
+"51","Brooklyn Nets",-2.7,0.497,12.7,25.2,0.236,0.509,13,73.5,0.272,2009,"Vince Carter, Devin Harris, Brook Lopez",7.2,"Vince Carter",3.3,0
+"52","Brooklyn Nets",-9.9,0.458,13.7,25.1,0.24,0.517,13.3,71.8,0.229,2010,"Brook Lopez, Devin Harris, Courtney Lee",3.6,"Brook Lopez",2.5,-2.1
+"53","Brooklyn Nets",-6.8,0.474,13.4,26.1,0.215,0.503,11.8,74.2,0.241,2011,"Brook Lopez, Devin Harris, Kris Humphries",4.6,"Brook Lopez",1.9,-0.9
+"54","Brooklyn Nets",-6.7,0.473,14.3,27.8,0.209,0.513,13.7,70.7,0.209,2012,"Deron Williams, Kris Humphries, Gerald Wallace",4.3,"Deron Williams",2.2,-1.3
+"55","Brooklyn Nets",2,0.498,14,30.9,0.219,0.503,13.1,73.7,0.174,2013,"Deron Williams, Brook Lopez, Andray Blatche",8.8,"Deron Williams",4.2,0.1
+"56","Brooklyn Nets",-1,0.514,14.1,21.7,0.236,0.509,14.9,72.3,0.236,2014,"Paul Pierce*, Deron Williams, Joe Johnson",5,"Paul Pierce*",1.9,0
+"57","Brooklyn Nets",-3,0.491,13,23.9,0.2,0.506,12.9,73.7,0.185,2015,"Brook Lopez, Joe Johnson, Deron Williams",4.1,"Brook Lopez",1.6,-0.4
+"58","Brooklyn Nets",-7.7,0.492,13.6,24.1,0.186,0.534,13.1,75.7,0.176,2016,"Brook Lopez, Thaddeus Young, Rondae Hollis-Jefferson",3.7,"Brook Lopez",2.1,-0.8
+"59","Brooklyn Nets",-6.6,0.507,14.7,19.6,0.228,0.513,11.6,76.1,0.212,2017,"Brook Lopez, Jeremy Lin, Trevor Booker",3.9,"Brook Lopez",2.4,-1.8
+"60","Brooklyn Nets",-3.7,0.514,13.6,21,0.201,0.517,11,77,0.201,2018,"Spencer Dinwiddie, DeMarre Carroll, Rondae Hollis-Jefferson",4.7,"Spencer Dinwiddie",1.5,-0.9
+"61","Brooklyn Nets",-0.1,0.52,13,23.8,0.211,0.512,11.6,76.4,0.19,2019,"D'Angelo Russell, Jarrett Allen, Joe Harris",6.7,"D'Angelo Russell",3.4,0
+"62","Brooklyn Nets",-0.6,0.52,13.1,23.2,0.199,0.511,11,77.8,0.187,2020,"Jarrett Allen, Spencer Dinwiddie, Kyrie Irving",5.5,"Jarrett Allen",2,0.7
+"63","Brooklyn Nets",4.5,0.575,12.2,21.4,0.208,0.531,11.1,77.3,0.187,2021,"Kyrie Irving, James Harden, Kevin Durant",9.5,"Kyrie Irving",3.6,1.1
+"64","Brooklyn Nets",0.8,0.54,12.5,23.9,0.198,0.521,11.7,75.1,0.201,2022,"Kevin Durant, James Harden, Kyrie Irving",8.7,"Kevin Durant",4.8,0.9
+"65","Brooklyn Nets",0.9,0.562,12.7,19.6,0.208,0.53,12.2,73.7,0.212,2023,"Kevin Durant, Nic Claxton, Kyrie Irving",8.3,"Kevin Durant",3.2,0.2
+"66","Brooklyn Nets",-2.6,0.532,11.7,25.3,0.175,0.544,11.6,75.8,0.199,2024,"Nic Claxton, Cameron Johnson, Mikal Bridges",3.7,"Nic Claxton",1.6,-1.1
+"67","Charlotte Hornets",-6.4,0.455,13.3,29.5,0.217,0.497,14.7,70.9,0.269,2005,"Brevin Knight, Jason Hart, Gerald Wallace",4.5,"Brevin Knight",1.8,-1.7
+"68","Charlotte Hornets",-4.2,0.464,13,27.1,0.233,0.514,16.5,70.7,0.263,2006,"Gerald Wallace, Brevin Knight, Raymond Felton",6,"Gerald Wallace",3.2,-0.1
+"69","Charlotte Hornets",-4,0.48,13.9,26.4,0.236,0.5,14.7,71.6,0.279,2007,"Gerald Wallace, Emeka Okafor, Matt Carroll",7.2,"Gerald Wallace",3.7,-0.6
+"70","Charlotte Hornets",-4.8,0.492,13.9,25.6,0.23,0.505,13.4,71,0.235,2008,"Jason Richardson, Gerald Wallace, Emeka Okafor",7.1,"Jason Richardson",4,-0.1
+"71","Charlotte Hornets",-1.4,0.494,15.1,27.7,0.231,0.498,14.4,73,0.229,2009,"Gerald Wallace, Boris Diaw, Emeka Okafor",7.1,"Gerald Wallace",3.7,-0.4
+"72","Charlotte Hornets",1.6,0.49,15.1,26.5,0.26,0.491,14.7,74.2,0.194,2010,"Gerald Wallace, Raymond Felton, Boris Diaw",8,"Gerald Wallace",3.7,-0.1
+"73","Charlotte Hornets",-4.4,0.482,14.1,25.7,0.237,0.5,12.9,75.2,0.229,2011,"Boris Diaw, D.J. Augustin, Gerald Wallace",4.4,"Boris Diaw",1.8,0.7
+"74","Charlotte Hornets",-15.2,0.439,13.9,23.6,0.206,0.512,12.8,70.9,0.206,2012,"Kemba Walker, Derrick Brown, Reggie Williams",0.6,"Kemba Walker",0.6,-2.6
+"75","Charlotte Hornets",-10,0.46,13.2,25.7,0.233,0.524,13.2,71.1,0.197,2013,"Kemba Walker, Ramon Sessions, Gerald Henderson",3.6,"Kemba Walker",2.4,-0.2
+"76","Charlotte Hornets",-0.2,0.481,11.7,21.9,0.219,0.491,12.6,77.6,0.183,2014,"Al Jefferson, Kemba Walker, Josh McRoberts",7.7,"Al Jefferson",3,0
+"77","Charlotte Hornets",-3.4,0.456,11.2,22.1,0.202,0.487,12,79.3,0.188,2015,"Kemba Walker, Al Jefferson, Marvin Williams",5.1,"Kemba Walker",2.3,-1
+"78","Charlotte Hornets",2.8,0.502,11.7,20,0.222,0.496,12.5,79.8,0.191,2016,"Kemba Walker, Marvin Williams, Nicolas Batum",9,"Kemba Walker",4.3,1.3
+"79","Charlotte Hornets",0.2,0.501,10.7,19.9,0.227,0.523,12.1,79.6,0.164,2017,"Kemba Walker, Nicolas Batum, Marvin Williams",7.2,"Kemba Walker",4.2,-0.6
+"80","Charlotte Hornets",0.3,0.508,11.4,22.2,0.233,0.532,12.4,80.7,0.165,2018,"Kemba Walker, Jeremy Lamb, Marvin Williams",7.5,"Kemba Walker",4.2,-0.1
+"81","Charlotte Hornets",-1.1,0.514,10.9,21.7,0.205,0.538,12.1,77.1,0.179,2019,"Kemba Walker, Jeremy Lamb, Nicolas Batum",7.2,"Kemba Walker",4.4,-0.2
+"82","Charlotte Hornets",-7,0.504,13.3,23.9,0.188,0.546,13.1,74.4,0.159,2020,"Devonte' Graham, Terry Rozier, Cody Zeller",2.7,"Devonte' Graham",1.4,0.9
+"83","Charlotte Hornets",-1.9,0.532,13.3,23.5,0.181,0.55,13.2,75.7,0.163,2021,"Terry Rozier, LaMelo Ball, Gordon Hayward",5,"Terry Rozier",2.2,1.8
+"84","Charlotte Hornets",0.4,0.544,11.6,23.3,0.173,0.544,13.1,74.8,0.187,2022,"LaMelo Ball, Miles Bridges, Terry Rozier",8.1,"LaMelo Ball",3.3,-0.3
+"85","Charlotte Hornets",-6.1,0.516,12.3,23.8,0.195,0.544,12.5,75.5,0.211,2023,"Mason Plumlee, LaMelo Ball, Terry Rozier",4,"Mason Plumlee",1.8,-0.3
+"86","Charlotte Hornets",-10.9,0.523,12.6,21.7,0.164,0.571,12.4,74.9,0.195,2024,"Terry Rozier, LaMelo Ball, Miles Bridges",2.5,"Terry Rozier",1.1,-1.5
+"87","Chicago Bulls",-5.4,0.471,15.4,27.7,0.217,0.47,13.3,69.5,0.263,2003,"Donyell Marshall, Jamal Crawford, Jalen Rose",3.8,"Donyell Marshall",1.9,-0.2
+"88","Chicago Bulls",-6.8,0.446,14.9,28.1,0.197,0.469,14.1,71.4,0.253,2004,"Jamal Crawford, Jerome Williams, Kirk Hinrich",4.1,"Jamal Crawford",2.4,-1.4
+"89","Chicago Bulls",1.1,0.471,15.5,28.4,0.233,0.454,14.4,72.6,0.262,2005,"Kirk Hinrich, Tyson Chandler, Ben Gordon",6.7,"Kirk Hinrich",3.2,1
+"90","Chicago Bulls",0.6,0.487,13.9,26.3,0.216,0.464,13.9,74.7,0.295,2006,"Kirk Hinrich, Luol Deng, Andrés Nocioni",7.3,"Kirk Hinrich",2.8,1.4
+"91","Chicago Bulls",5.3,0.493,14.7,28.6,0.229,0.473,16.2,74.3,0.252,2007,"Luol Deng, Ben Wallace*, Kirk Hinrich",11.1,"Luol Deng",3.9,0.7
+"92","Chicago Bulls",-3.3,0.47,13.4,28.9,0.223,0.496,14.2,73.1,0.258,2008,"Ben Gordon, Luol Deng, Ben Wallace*",3.8,"Ben Gordon",1.7,-2
+"93","Chicago Bulls",-0.3,0.493,13.3,28,0.239,0.493,13.1,70.9,0.238,2009,"Ben Gordon, Joakim Noah, Derrick Rose",5,"Ben Gordon",2.3,0.3
+"94","Chicago Bulls",-1.8,0.477,13.3,26.6,0.217,0.484,12.3,74.8,0.212,2010,"Derrick Rose, Luol Deng, Joakim Noah",6.4,"Derrick Rose",2.7,0.5
+"95","Chicago Bulls",8,0.501,13.5,29.4,0.227,0.463,13.6,76.2,0.222,2011,"Derrick Rose, Luol Deng, Ronnie Brewer",11.7,"Derrick Rose",6.7,1.6
+"96","Chicago Bulls",9.1,0.49,13.2,32.6,0.184,0.45,12.8,74.3,0.175,2012,"Derrick Rose, Joakim Noah, Carlos Boozer",8,"Derrick Rose",2.9,1.4
+"97","Chicago Bulls",0.3,0.47,13.6,29.4,0.201,0.477,13.2,73.6,0.206,2013,"Joakim Noah, Nate Robinson, Jimmy Butler",7.9,"Joakim Noah",3.3,1
+"98","Chicago Bulls",2,0.471,14.2,27.2,0.226,0.471,13.7,75.4,0.189,2014,"Joakim Noah, Jimmy Butler, Mike Dunleavy",10.8,"Joakim Noah",5.2,1.2
+"99","Chicago Bulls",3.2,0.489,12.9,27,0.238,0.473,11.3,74.4,0.182,2015,"Jimmy Butler, Pau Gasol*, Joakim Noah",10,"Jimmy Butler",4.2,0.9
+"100","Chicago Bulls",-1.5,0.487,12.6,24.5,0.189,0.485,10.7,74.9,0.182,2016,"Pau Gasol*, Jimmy Butler, Nikola Mirotić",9.4,"Pau Gasol*",4,-0.5
+"101","Chicago Bulls",0.4,0.487,12.3,27,0.206,0.507,12.4,76.8,0.169,2017,"Jimmy Butler, Dwyane Wade*, Nikola Mirotić",9.8,"Jimmy Butler",6.6,1
+"102","Chicago Bulls",-7.1,0.497,12.6,20.6,0.164,0.542,12.4,80.6,0.184,2018,"Bobby Portis, Nikola Mirotić, Lauri Markkanen",3.1,"Bobby Portis",1.2,-0.2
+"103","Chicago Bulls",-8.4,0.505,12.7,19.4,0.184,0.541,11.9,77.3,0.188,2019,"Zach LaVine, Lauri Markkanen, Justin Holiday",2.8,"Zach LaVine",1.5,-1.2
+"104","Chicago Bulls",-3.1,0.515,13.7,22.8,0.175,0.546,16.3,75.6,0.239,2020,"Zach LaVine, Shaquille Harrison, Lauri Markkanen",3.5,"Zach LaVine",2.4,-1.7
+"105","Chicago Bulls",-0.9,0.547,13.6,22.3,0.156,0.538,11.6,80.3,0.196,2021,"Zach LaVine, Thaddeus Young, Nikola Vučević",6.7,"Zach LaVine",3.1,-0.6
+"106","Chicago Bulls",-0.4,0.541,11.8,20.4,0.201,0.541,11.9,78.3,0.199,2022,"DeMar DeRozan, Zach LaVine, Nikola Vučević",7.5,"DeMar DeRozan",3.1,1.4
+"107","Chicago Bulls",1.3,0.55,12.2,20.1,0.203,0.544,13.5,77.8,0.197,2023,"Nikola Vučević, Zach LaVine, DeMar DeRozan",8.5,"Nikola Vučević",3.2,0
+"108","Chicago Bulls",-1.8,0.532,11,24.7,0.189,0.555,12.6,76,0.195,2024,"DeMar DeRozan, Alex Caruso, Coby White",6.2,"DeMar DeRozan",2.4,2.3
+"109","Cleveland Cavaliers",-10.2,0.444,16.4,31,0.223,0.484,13,73.2,0.252,2003,"Ricky Davis, Carlos Boozer, Zydrunas Ilgauskas",3.3,"Ricky Davis",1.3,-1.2
+"110","Cleveland Cavaliers",-2.8,0.451,13.7,31.1,0.226,0.469,12.3,73,0.221,2004,"LeBron James, Carlos Boozer, Zydrunas Ilgauskas",7.5,"LeBron James",2.9,-0.5
+"111","Cleveland Cavaliers",0.9,0.47,13,32.5,0.244,0.485,14.1,71.5,0.248,2005,"LeBron James, Drew Gooden, Zydrunas Ilgauskas",12.6,"LeBron James",9.1,-0.6
+"112","Cleveland Cavaliers",2.4,0.492,13.3,28.4,0.263,0.49,12.8,75.7,0.226,2006,"LeBron James, Zydrunas Ilgauskas, Donyell Marshall",12.6,"LeBron James",9.4,0.6
+"113","Cleveland Cavaliers",4.2,0.484,13.4,29.7,0.223,0.48,14.7,75.8,0.243,2007,"LeBron James, Zydrunas Ilgauskas, Donyell Marshall",10.7,"LeBron James",8.1,1.2
+"114","Cleveland Cavaliers",-0.4,0.48,13.1,30.4,0.221,0.494,12.9,75.9,0.24,2008,"LeBron James, Zydrunas Ilgauskas, Daniel Gibson",11.4,"LeBron James",9.8,2.4
+"115","Cleveland Cavaliers",10,0.519,12.5,27.7,0.236,0.468,13.5,74.6,0.226,2009,"LeBron James, Mo Williams, Delonte West",16.9,"LeBron James",11.8,3.2
+"116","Cleveland Cavaliers",7.1,0.532,13.4,25.1,0.246,0.482,12.3,77.2,0.218,2010,"LeBron James, Mo Williams, Anderson Varejão",14.4,"LeBron James",10.3,2.2
+"117","Cleveland Cavaliers",-9.6,0.472,13.4,24.2,0.233,0.524,12.7,73.3,0.211,2011,"Ramon Sessions, Antawn Jamison, Daniel Gibson",3,"Ramon Sessions",1.3,0.6
+"118","Cleveland Cavaliers",-7.8,0.463,14.3,28.9,0.22,0.508,13.1,72.2,0.202,2012,"Kyrie Irving, Antawn Jamison, Anderson Varejão",3.9,"Kyrie Irving",2.4,-0.7
+"119","Cleveland Cavaliers",-5.1,0.473,13,28.1,0.2,0.523,14.4,72.6,0.225,2013,"Kyrie Irving, Anderson Varejão, C.J. Miles",5.4,"Kyrie Irving",3,-0.8
+"120","Cleveland Cavaliers",-3.5,0.479,13,27.2,0.201,0.508,13,75.8,0.199,2014,"Kyrie Irving, Anderson Varejão, C.J. Miles",6,"Kyrie Irving",3.3,-0.1
+"121","Cleveland Cavaliers",4.8,0.52,13.4,26.8,0.216,0.502,12.6,74.7,0.177,2015,"LeBron James, Kyrie Irving, Kevin Love",12.9,"LeBron James",5.7,1.2
+"122","Cleveland Cavaliers",6.4,0.524,12.7,25.1,0.194,0.496,12.6,78.5,0.205,2016,"LeBron James, Kevin Love, Kyrie Irving",12.6,"LeBron James",7.5,0.3
+"123","Cleveland Cavaliers",3.3,0.547,12.6,21.9,0.206,0.516,11.4,75.8,0.174,2017,"LeBron James, Kyrie Irving, Kevin Love",12,"LeBron James",6.7,1.6
+"124","Cleveland Cavaliers",1,0.547,12.6,20.1,0.214,0.54,12.2,77.3,0.166,2018,"LeBron James, Kevin Love, Kyle Korver",11.3,"LeBron James",8.2,1.7
+"125","Cleveland Cavaliers",-9.9,0.503,12.2,23.7,0.187,0.564,11.5,77,0.181,2019,"Larry Nance Jr., Jordan Clarkson, Kevin Love",3.4,"Larry Nance Jr.",2,-1.1
+"126","Cleveland Cavaliers",-7.9,0.522,14.6,24.6,0.172,0.56,11.7,77.4,0.164,2020,"Kevin Love, Larry Nance Jr., Jordan Clarkson",4,"Kevin Love",1.8,-0.3
+"127","Cleveland Cavaliers",-8.6,0.508,13.9,23.6,0.194,0.556,13,76.6,0.183,2021,"Jarrett Allen, Collin Sexton, Larry Nance Jr.",2.8,"Jarrett Allen",1.1,-1
+"128","Cleveland Cavaliers",2.2,0.538,13.2,24,0.198,0.52,12.3,76.5,0.172,2022,"Darius Garland, Jarrett Allen, Kevin Love",8.2,"Darius Garland",2.8,0.4
+"129","Cleveland Cavaliers",5.5,0.556,12.3,23.6,0.206,0.535,14.4,76.3,0.21,2023,"Donovan Mitchell, Darius Garland, Evan Mobley",10.2,"Donovan Mitchell",5,0.6
+"130","Cleveland Cavaliers",3.5,0.556,12.2,23.4,0.18,0.527,12.1,77.1,0.192,2024,"Donovan Mitchell, Jarrett Allen, Evan Mobley",8,"Donovan Mitchell",3.7,-0.1
+"131","Dallas Mavericks",8.4,0.498,10.9,25.4,0.213,0.473,14.8,70.9,0.221,2003,"Dirk Nowitzki*, Steve Nash*, Michael Finley",14.2,"Dirk Nowitzki*",7.3,1.2
+"132","Dallas Mavericks",4.7,0.495,11.1,31.4,0.204,0.498,13.9,71.6,0.214,2004,"Dirk Nowitzki*, Steve Nash*, Michael Finley",10,"Dirk Nowitzki*",4.3,-1
+"133","Dallas Mavericks",6.2,0.492,12.5,28.6,0.273,0.472,14.3,70.2,0.239,2005,"Dirk Nowitzki*, Jason Terry, Josh Howard",12.3,"Dirk Nowitzki*",7.1,1.3
+"134","Dallas Mavericks",6.8,0.495,13.1,31.8,0.285,0.475,13.7,72.2,0.257,2006,"Dirk Nowitzki*, Jason Terry, Josh Howard",13.6,"Dirk Nowitzki*",7.9,1.4
+"135","Dallas Mavericks",8.1,0.509,13.4,28.7,0.256,0.477,14.2,75,0.265,2007,"Dirk Nowitzki*, Jason Terry, Josh Howard",14.9,"Dirk Nowitzki*",7.4,2.8
+"136","Dallas Mavericks",5,0.502,12.3,26.7,0.259,0.474,11.7,75,0.252,2008,"Dirk Nowitzki*, Jason Terry, Josh Howard",11.5,"Dirk Nowitzki*",6,0.7
+"137","Dallas Mavericks",2.1,0.504,12.1,26.6,0.224,0.493,12.3,74.6,0.225,2009,"Dirk Nowitzki*, Jason Kidd*, Jason Terry",11.3,"Dirk Nowitzki*",4.2,1.2
+"138","Dallas Mavericks",2.9,0.506,12.3,24.3,0.226,0.495,13.6,73.7,0.206,2010,"Dirk Nowitzki*, Jason Kidd*, Jason Terry",11.4,"Dirk Nowitzki*",4.7,1.9
+"139","Dallas Mavericks",4.7,0.525,13.6,24.1,0.222,0.488,13,74.8,0.206,2011,"Dirk Nowitzki*, Jason Kidd*, Jason Terry",9.7,"Dirk Nowitzki*",4.5,2.3
+"140","Dallas Mavericks",1,0.489,13.4,23.4,0.19,0.479,13.9,74.8,0.203,2012,"Dirk Nowitzki*, Jason Terry, Shawn Marion",7.1,"Dirk Nowitzki*",3,-0.3
+"141","Dallas Mavericks",-0.6,0.506,13,21.8,0.192,0.492,13.3,73.1,0.227,2013,"Vince Carter, Dirk Nowitzki*, Shawn Marion",6.9,"Vince Carter",2.6,-0.2
+"142","Dallas Mavericks",2.5,0.526,12.7,24.6,0.201,0.515,14.8,72.7,0.229,2014,"Dirk Nowitzki*, José Calderón, Vince Carter",8.7,"Dirk Nowitzki*",4.7,1.3
+"143","Dallas Mavericks",3.1,0.515,11.9,23.6,0.197,0.503,14.7,72.2,0.204,2015,"Tyson Chandler, Dirk Nowitzki*, Chandler Parsons",7.1,"Tyson Chandler",2.7,1.9
+"144","Dallas Mavericks",-0.3,0.502,12,20.6,0.211,0.504,12.8,76.2,0.198,2016,"Dirk Nowitzki*, Chandler Parsons, Deron Williams",7.2,"Dirk Nowitzki*",2.7,1.2
+"145","Dallas Mavericks",-3.2,0.505,11.6,18.1,0.18,0.529,14.4,77.6,0.218,2017,"Seth Curry, Dirk Nowitzki*, Dwight Powell",3.7,"Seth Curry",1.7,-0.5
+"146","Dallas Mavericks",-3.2,0.513,11.6,18,0.166,0.532,12.9,78.9,0.193,2018,"Dirk Nowitzki*, Dwight Powell, J.J. Barea",4.9,"Dirk Nowitzki*",2.1,-2.6
+"147","Dallas Mavericks",-1.3,0.519,12.7,22.7,0.216,0.522,11.6,77.5,0.191,2019,"Luka Dončić, Dwight Powell, DeAndre Jordan",6.9,"Luka Dončić",3.4,-0.6
+"148","Dallas Mavericks",5,0.545,11.2,23.2,0.206,0.525,10.6,77.7,0.175,2020,"Luka Dončić, Kristaps Porziņģis, Delon Wright",8.7,"Luka Dončić",5.4,-0.4
+"149","Dallas Mavericks",2.4,0.55,11.1,21.1,0.189,0.534,11.5,77.8,0.197,2021,"Luka Dončić, Kristaps Porziņģis, Tim Hardaway Jr.",8.9,"Luka Dončić",5.1,-0.5
+"150","Dallas Mavericks",3.4,0.538,11.7,21.3,0.192,0.521,12.2,78,0.185,2022,"Luka Dončić, Jalen Brunson, Dorian Finney-Smith",9.7,"Luka Dončić",5.9,-0.3
+"151","Dallas Mavericks",0.1,0.565,11.4,18,0.225,0.549,11.9,75.5,0.226,2023,"Luka Dončić, Christian Wood, Kyrie Irving",10.8,"Luka Dončić",6.6,0.1
+"152","Dallas Mavericks",1.7,0.563,11,22.5,0.194,0.552,12,74.6,0.19,2024,"Luka Dončić, Kyrie Irving, Daniel Gafford",10.8,"Luka Dončić",7,2.3
+"153","Denver Nuggets",-9.1,0.428,17.1,31.3,0.198,0.477,16.5,73.3,0.29,2003,"Juwan Howard, Nenê, Ryan Bowen",4.7,"Juwan Howard",2.1,-2.2
+"154","Denver Nuggets",1.2,0.467,14.2,30.5,0.245,0.481,15.6,69.3,0.221,2004,"Andre Miller, Marcus Camby, Carmelo Anthony",7.4,"Andre Miller",3.3,1
+"155","Denver Nuggets",2.1,0.483,13.8,28.4,0.267,0.482,15.1,71.7,0.247,2005,"Marcus Camby, Andre Miller, Kenyon Martin",6.4,"Marcus Camby",2.6,0.8
+"156","Denver Nuggets",0.3,0.488,13.7,26.8,0.258,0.493,14.7,72,0.227,2006,"Carmelo Anthony, Marcus Camby, Andre Miller",7.8,"Carmelo Anthony",3.5,-0.2
+"157","Denver Nuggets",1.7,0.501,14.6,28.9,0.268,0.499,14.5,71.8,0.203,2007,"Marcus Camby, Carmelo Anthony, Allen Iverson*",8.2,"Marcus Camby",4,-0.3
+"158","Denver Nuggets",3.7,0.51,12.9,25.5,0.269,0.499,14.1,72.1,0.203,2008,"Allen Iverson*, Marcus Camby, Carmelo Anthony",10.3,"Allen Iverson*",4,0.2
+"159","Denver Nuggets",3.6,0.512,14.2,27.5,0.29,0.485,14.1,71.7,0.259,2009,"Chauncey Billups, Nenê, J.R. Smith",8.7,"Chauncey Billups",3.7,0.4
+"160","Denver Nuggets",4.3,0.509,12.7,26.1,0.29,0.495,13.8,72.4,0.251,2010,"Chauncey Billups, Nenê, Carmelo Anthony",10.1,"Chauncey Billups",3.6,0.4
+"161","Denver Nuggets",5,0.526,13.1,23.9,0.281,0.5,12.7,75.4,0.224,2011,"Nenê, Ty Lawson, Chauncey Billups",7.5,"Nenê",3.2,0.1
+"162","Denver Nuggets",3,0.516,14.1,27.7,0.239,0.508,14.3,74.3,0.185,2012,"Ty Lawson, Danilo Gallinari, Kenneth Faried",6.3,"Ty Lawson",2.8,0
+"163","Denver Nuggets",5.3,0.515,13.6,31.4,0.216,0.493,14.3,71.8,0.193,2013,"Andre Iguodala, Danilo Gallinari, Ty Lawson",8.6,"Andre Iguodala",3.3,1.3
+"164","Denver Nuggets",-2.2,0.497,14,27.5,0.222,0.5,12.8,74.5,0.233,2014,"Ty Lawson, Kenneth Faried, Randy Foye",5.7,"Ty Lawson",2.5,-0.4
+"165","Denver Nuggets",-3.7,0.479,12.7,26.6,0.204,0.504,13,74.7,0.239,2015,"Ty Lawson, Danilo Gallinari, Kenneth Faried",5.4,"Ty Lawson",2.8,-0.9
+"166","Denver Nuggets",-3.3,0.489,13.2,25.8,0.216,0.515,12.6,77.3,0.216,2016,"Nikola Jokić, Danilo Gallinari, Will Barton",6.5,"Nikola Jokić",2.6,-0.4
+"167","Denver Nuggets",0.5,0.53,13.2,27.3,0.214,0.532,10.9,78.7,0.194,2017,"Nikola Jokić, Danilo Gallinari, Gary Harris",7.9,"Nikola Jokić",4.8,-0.5
+"168","Denver Nuggets",1.5,0.536,13.4,25.7,0.198,0.539,12.6,77.5,0.173,2018,"Nikola Jokić, Will Barton, Gary Harris",9.3,"Nikola Jokić",5.5,0
+"169","Denver Nuggets",4.1,0.527,11.9,26.6,0.175,0.521,12.3,78,0.194,2019,"Nikola Jokić, Paul Millsap, Mason Plumlee",10.6,"Nikola Jokić",7,1.2
+"170","Denver Nuggets",2.1,0.535,12.3,24.8,0.183,0.533,12.9,76.8,0.198,2020,"Nikola Jokić, Will Barton, Jamal Murray",8.5,"Nikola Jokić",5.5,1.2
+"171","Denver Nuggets",5,0.557,12.1,24.7,0.176,0.545,12.9,78.9,0.2,2021,"Nikola Jokić, Michael Porter Jr., Jamal Murray",13,"Nikola Jokić",8.8,0.9
+"172","Denver Nuggets",2.4,0.556,13.2,21.9,0.194,0.537,11.7,78.3,0.188,2022,"Nikola Jokić, Monte Morris, Aaron Gordon",12.7,"Nikola Jokić",9.8,0.2
+"173","Denver Nuggets",3.4,0.573,13.1,24.8,0.194,0.543,12.2,76.4,0.201,2023,"Nikola Jokić, Aaron Gordon, Jamal Murray",12.7,"Nikola Jokić",8.8,0.9
+"174","Denver Nuggets",5,0.561,11.5,25.8,0.174,0.528,11.2,75.3,0.196,2024,"Nikola Jokić, Jamal Murray, Aaron Gordon",13.1,"Nikola Jokić",9.2,2.4
+"175","Detroit Pistons",4.2,0.473,13.3,25.9,0.248,0.461,13.9,74,0.225,2003,"Ben Wallace*, Chauncey Billups, Jon Barry",10.4,"Ben Wallace*",4.3,0.6
+"176","Detroit Pistons",6.6,0.461,14.7,30.1,0.247,0.441,15.5,71.8,0.202,2004,"Ben Wallace*, Chauncey Billups, Tayshaun Prince",10.8,"Ben Wallace*",4.3,1
+"177","Detroit Pistons",4.4,0.472,13.3,31.2,0.247,0.461,13.5,73,0.207,2005,"Chauncey Billups, Ben Wallace*, Tayshaun Prince",10.8,"Chauncey Billups",4.5,1
+"178","Detroit Pistons",7.7,0.497,11.2,28.9,0.216,0.477,13.7,71.2,0.191,2006,"Chauncey Billups, Ben Wallace*, Rasheed Wallace",14.1,"Chauncey Billups",6.1,1.5
+"179","Detroit Pistons",4.7,0.488,12,28.3,0.237,0.477,14.3,70.9,0.234,2007,"Chauncey Billups, Tayshaun Prince, Rasheed Wallace",9.7,"Chauncey Billups",4.3,1.6
+"180","Detroit Pistons",8.5,0.495,11.4,29.4,0.23,0.47,13.4,73.7,0.244,2008,"Chauncey Billups, Rasheed Wallace, Richard Hamilton",12.4,"Chauncey Billups",6.2,0.8
+"181","Detroit Pistons",-0.6,0.483,11.7,27.9,0.212,0.485,11.7,74,0.248,2009,"Tayshaun Prince, Rasheed Wallace, Antonio McDyess",7,"Tayshaun Prince",2.5,-0.3
+"182","Detroit Pistons",-5.8,0.474,12.8,30.3,0.22,0.526,14.2,73.4,0.264,2010,"Ben Wallace*, Tayshaun Prince, Rodney Stuckey",4.1,"Ben Wallace*",1.9,-0.6
+"183","Detroit Pistons",-4,0.495,12.5,27.4,0.206,0.526,13.8,72.1,0.235,2011,"Greg Monroe, Rodney Stuckey, Tracy McGrady*",3.7,"Greg Monroe",1.4,-0.3
+"184","Detroit Pistons",-5.3,0.468,15,28.1,0.21,0.5,14.2,72.8,0.226,2012,"Greg Monroe, Rodney Stuckey, Ben Wallace*",4.4,"Greg Monroe",2.6,-0.8
+"185","Detroit Pistons",-4.3,0.487,14.3,28.3,0.197,0.505,13.1,73,0.209,2013,"Greg Monroe, Andre Drummond, José Calderón",5,"Greg Monroe",2.6,-0.9
+"186","Detroit Pistons",-3.8,0.482,12.9,31.4,0.199,0.52,13.8,73.4,0.218,2014,"Andre Drummond, Brandon Jennings, Greg Monroe",5.1,"Andre Drummond",2.3,-0.8
+"187","Detroit Pistons",-1.1,0.482,12.3,27.7,0.184,0.502,13.2,75,0.192,2015,"Greg Monroe, Brandon Jennings, Andre Drummond",4.9,"Greg Monroe",2.1,-1
+"188","Detroit Pistons",0.6,0.491,12.2,27,0.197,0.504,12.5,79.3,0.196,2016,"Reggie Jackson, Andre Drummond, Marcus Morris",6.1,"Reggie Jackson",2.8,1.3
+"189","Detroit Pistons",-1.1,0.492,10.9,24.1,0.157,0.516,12.1,81.2,0.197,2017,"Tobias Harris, Andre Drummond, Ish Smith",6.3,"Tobias Harris",2.3,-1
+"190","Detroit Pistons",-0.1,0.512,12.3,22.7,0.169,0.524,13.7,78.5,0.172,2018,"Andre Drummond, Tobias Harris, Anthony Tolliver",6.2,"Andre Drummond",3.4,-0.7
+"191","Detroit Pistons",-0.2,0.509,12.3,24.8,0.195,0.526,12.8,78.7,0.211,2019,"Blake Griffin, Andre Drummond, Reggie Jackson",8.8,"Blake Griffin",4.7,-0.1
+"192","Detroit Pistons",-3.7,0.529,13.8,22.6,0.194,0.541,12.7,75.9,0.186,2020,"Christian Wood, Derrick Rose, Andre Drummond",4.4,"Christian Wood",1.7,-2.4
+"193","Detroit Pistons",-4.5,0.519,13.5,21.9,0.207,0.541,12.6,76.9,0.195,2021,"Mason Plumlee, Jerami Grant, Delon Wright",4.2,"Mason Plumlee",1.6,-1.6
+"194","Detroit Pistons",-7.8,0.494,12.6,23.4,0.194,0.541,13.1,75.6,0.226,2022,"Saddiq Bey, Jerami Grant, Kelly Olynyk",3.1,"Saddiq Bey",1.2,-1.5
+"195","Detroit Pistons",-8.2,0.52,13.3,24.9,0.227,0.557,11.9,74,0.231,2023,"Bojan Bogdanović, Alec Burks, Jalen Duren",3.3,"Bojan Bogdanović",1.4,-2.1
+"196","Detroit Pistons",-9.1,0.529,13.6,24.6,0.196,0.559,10.7,77.8,0.23,2024,"Cade Cunningham, Jalen Duren, Alec Burks",2.1,"Cade Cunningham",0.9,-3.1
+"197","Golden State Warriors",-1.2,0.472,13.9,35,0.267,0.482,12.2,67.9,0.22,2003,"Gilbert Arenas, Antawn Jamison, Adonal Foyle",5.9,"Gilbert Arenas",2.4,-0.2
+"198","Golden State Warriors",-0.8,0.475,14.1,28.4,0.226,0.476,13.3,72.1,0.211,2004,"Brian Cardinal, Mike Dunleavy, Jason Richardson",6.1,"Brian Cardinal",2.2,-1.4
+"199","Golden State Warriors",-2.2,0.475,12.3,27.8,0.201,0.491,13.9,69.7,0.227,2005,"Jason Richardson, Mike Dunleavy, Baron Davis",5.7,"Jason Richardson",3,0.8
+"200","Golden State Warriors",-1.4,0.479,13,26.9,0.232,0.492,14.1,71.6,0.243,2006,"Jason Richardson, Baron Davis, Derek Fisher",7.6,"Jason Richardson",3.7,-1.2
+"201","Golden State Warriors",-0.4,0.512,14.1,25.6,0.215,0.506,16.1,69.6,0.264,2007,"Baron Davis, Matt Barnes, Jason Richardson",5.7,"Baron Davis",3.2,-0.6
+"202","Golden State Warriors",2.3,0.511,11.5,27.2,0.208,0.509,14.7,70.3,0.258,2008,"Baron Davis, Monta Ellis, Andris Biedriņš",8.9,"Baron Davis",4.5,1
+"203","Golden State Warriors",-3.8,0.497,12.9,26.1,0.268,0.508,12.9,68.1,0.251,2009,"Andris Biedriņš, Ronny Turiaf, Stephen Jackson",3.9,"Andris Biedriņš",1.5,-1.1
+"204","Golden State Warriors",-3.6,0.514,13.1,20.9,0.23,0.525,15.1,68.5,0.26,2010,"Stephen Curry, Corey Maggette, Anthony Morrow",4,"Stephen Curry",2,-2.3
+"205","Golden State Warriors",-2.5,0.51,13.3,26.7,0.183,0.509,14.5,69.3,0.259,2011,"Stephen Curry, Monta Ellis, Dorell Wright",7.2,"Stephen Curry",2.7,-0.4
+"206","Golden State Warriors",-3.7,0.505,13.3,22.9,0.175,0.496,13.6,69.1,0.237,2012,"Brandon Rush, Stephen Curry, Dorell Wright",4,"Brandon Rush",1.6,-2
+"207","Golden State Warriors",0.9,0.506,14,25.4,0.201,0.486,12.4,75.5,0.211,2013,"Stephen Curry, David Lee, Jarrett Jack",9.8,"Stephen Curry",5.6,0.9
+"208","Golden State Warriors",4.9,0.517,13.8,25.1,0.186,0.477,13.6,76.3,0.224,2014,"Stephen Curry, Andrew Bogut, Andre Iguodala",11.1,"Stephen Curry",6.7,0.3
+"209","Golden State Warriors",10.2,0.54,13.1,24.1,0.184,0.47,14.3,74.5,0.217,2015,"Stephen Curry, Klay Thompson, Draymond Green",15.4,"Stephen Curry",7.9,2
+"210","Golden State Warriors",10.7,0.563,13.5,23.5,0.191,0.479,12.6,76,0.208,2016,"Stephen Curry, Draymond Green, Klay Thompson",17.3,"Stephen Curry",9.5,3.2
+"211","Golden State Warriors",11.6,0.563,13.2,22.8,0.204,0.486,13.5,74.9,0.198,2017,"Stephen Curry, Kevin Durant, Draymond Green",15.9,"Stephen Curry",5.9,1.2
+"212","Golden State Warriors",6,0.569,14.1,21,0.195,0.504,12.6,76.3,0.186,2018,"Kevin Durant, Stephen Curry, Draymond Green",12.3,"Kevin Durant",5.5,1.1
+"213","Golden State Warriors",6.4,0.565,12.6,22.5,0.182,0.508,11.7,77.1,0.205,2019,"Stephen Curry, Kevin Durant, Draymond Green",12,"Stephen Curry",5.1,0.4
+"214","Golden State Warriors",-8.6,0.497,13.2,21.5,0.212,0.553,13.7,76.4,0.193,2020,"D'Angelo Russell, Marquese Chriss, Alec Burks",2.7,"D'Angelo Russell",1.2,-2
+"215","Golden State Warriors",1,0.551,13.3,17.9,0.188,0.522,13.1,76.6,0.223,2021,"Stephen Curry, Draymond Green, Andrew Wiggins",8.7,"Stephen Curry",5.8,-0.7
+"216","Golden State Warriors",5.6,0.552,13.5,22.8,0.181,0.509,13,78.7,0.201,2022,"Stephen Curry, Draymond Green, Otto Porter Jr.",9.8,"Stephen Curry",4.4,0.2
+"217","Golden State Warriors",1.7,0.571,14.1,24.4,0.178,0.54,12.3,76,0.214,2023,"Stephen Curry, Kevon Looney, Draymond Green",8.3,"Stephen Curry",4.7,-0.2
+"218","Golden State Warriors",1.5,0.553,12.3,27.7,0.175,0.543,11.4,76,0.201,2024,"Stephen Curry, Draymond Green, Chris Paul",6,"Stephen Curry",3.6,-0.4
+"219","Houston Rockets",1.7,0.474,14.8,30.3,0.243,0.462,12.6,72.4,0.209,2003,"Steve Francis, Yao Ming*, Cuttino Mobley",9,"Steve Francis",4.8,1.3
+"220","Houston Rockets",1.9,0.484,16.4,26.5,0.221,0.447,13.1,74.5,0.233,2004,"Yao Ming*, Cuttino Mobley, Steve Francis",8.7,"Yao Ming*",3.2,-0.2
+"221","Houston Rockets",4.5,0.486,13.5,26.3,0.242,0.459,12.9,74.5,0.245,2005,"Tracy McGrady*, Yao Ming*, Bob Sura",11.4,"Tracy McGrady*",6.9,-0.5
+"222","Houston Rockets",-1.7,0.471,14.3,25.5,0.24,0.472,13.1,74.6,0.247,2006,"Tracy McGrady*, Yao Ming*, Luther Head",7.6,"Tracy McGrady*",3.3,-0.5
+"223","Houston Rockets",5.3,0.499,13.6,25.7,0.22,0.466,13.6,77,0.23,2007,"Tracy McGrady*, Shane Battier, Yao Ming*",11.2,"Tracy McGrady*",5.2,0.1
+"224","Houston Rockets",5.2,0.492,13,29.1,0.2,0.465,12.8,74.8,0.214,2008,"Tracy McGrady*, Shane Battier, Yao Ming*",8.8,"Tracy McGrady*",3.1,-0.3
+"225","Houston Rockets",4.4,0.501,13.6,26.4,0.235,0.479,11.9,75.3,0.192,2009,"Yao Ming*, Metta World Peace, Shane Battier",7.7,"Yao Ming*",3.3,-0.3
+"226","Houston Rockets",-0.4,0.494,13.2,26.9,0.225,0.511,13.6,73.8,0.215,2010,"Shane Battier, Aaron Brooks, Trevor Ariza",5.5,"Shane Battier",1.9,0.2
+"227","Houston Rockets",2.3,0.503,12.3,27.4,0.239,0.5,12.6,72.7,0.219,2011,"Kevin Martin, Kyle Lowry, Chuck Hayes",8.2,"Kevin Martin",3.5,-1.2
+"228","Houston Rockets",0.3,0.492,13.5,27.5,0.184,0.49,13.8,73.4,0.21,2012,"Kyle Lowry, Goran Dragić, Chandler Parsons",5.3,"Kyle Lowry",2.3,0.5
+"229","Houston Rockets",3.6,0.525,14.9,26.4,0.232,0.502,13.5,75.2,0.196,2013,"James Harden, Chandler Parsons, Jeremy Lin",11.6,"James Harden",5.8,0.2
+"230","Houston Rockets",4.7,0.531,14.6,27.4,0.275,0.489,12.5,74.1,0.193,2014,"James Harden, Chandler Parsons, Dwight Howard",10.2,"James Harden",5.3,1.5
+"231","Houston Rockets",3.6,0.512,15,26.8,0.223,0.486,14.6,72.9,0.208,2015,"James Harden, Trevor Ariza, Jason Terry",11.3,"James Harden",8.1,-0.2
+"232","Houston Rockets",0.2,0.516,14.2,25.7,0.244,0.516,14.7,72.8,0.219,2016,"James Harden, Trevor Ariza, Dwight Howard",9.7,"James Harden",6.8,0.8
+"233","Houston Rockets",5.7,0.545,13.3,24.6,0.233,0.519,13.2,75.8,0.194,2017,"James Harden, Trevor Ariza, Patrick Beverley",11.7,"James Harden",8,-0.7
+"234","Houston Rockets",8.6,0.551,12.7,21.3,0.233,0.521,13.4,79.9,0.171,2018,"James Harden, Chris Paul, Clint Capela",14.7,"James Harden",7.7,2
+"235","Houston Rockets",4.8,0.542,12,22.8,0.221,0.525,13.4,74.4,0.21,2019,"James Harden, Clint Capela, Chris Paul",14.9,"James Harden",9.3,0.2
+"236","Houston Rockets",2.8,0.537,12.6,21,0.228,0.529,13.7,75.6,0.197,2020,"James Harden, Russell Westbrook, Clint Capela",10.2,"James Harden",7.3,1.8
+"237","Houston Rockets",-7.8,0.521,13,19.8,0.187,0.555,12.9,77.1,0.201,2021,"Kelly Olynyk, Christian Wood, James Harden",2.8,"Kelly Olynyk",1.2,-1.7
+"238","Houston Rockets",-8.3,0.534,14.5,21.7,0.202,0.554,12.3,74.4,0.206,2022,"Christian Wood, KJ Martin, Alperen Sengun",2.7,"Christian Wood",1.9,-0.8
+"239","Houston Rockets",-7.9,0.516,14,30.2,0.215,0.564,11.8,75.8,0.218,2023,"Alperen Sengun, Kevin Porter Jr., KJ Martin",3.9,"Alperen Sengun",1.9,-0.9
+"240","Houston Rockets",1.8,0.53,11.3,25.1,0.201,0.529,12,76.5,0.218,2024,"Alperen Sengun, Fred VanVleet, Amen Thompson",8.7,"Alperen Sengun",3.5,-1.2
+"241","Indiana Pacers",3.8,0.469,13.7,29,0.263,0.458,14.3,72.3,0.228,2003,"Jermaine O'Neal, Metta World Peace, Brad Miller",9.5,"Jermaine O'Neal",3.5,-0.9
+"242","Indiana Pacers",6.6,0.471,14.1,28.5,0.243,0.459,15.7,73.9,0.218,2004,"Metta World Peace, Reggie Miller*, Jermaine O'Neal",10,"Metta World Peace",3.8,2.4
+"243","Indiana Pacers",0.9,0.476,14.1,26.4,0.283,0.472,13.6,71.3,0.261,2005,"Reggie Miller*, Jamaal Tinsley, Jermaine O'Neal",5.2,"Reggie Miller*",2,1.1
+"244","Indiana Pacers",2.1,0.487,14.8,27.1,0.254,0.464,13,72.6,0.232,2006,"Jermaine O'Neal, Peja Stojaković, Stephen Jackson",6.7,"Jermaine O'Neal",2,-0.4
+"245","Indiana Pacers",-2.6,0.474,15.1,28.4,0.246,0.491,14.8,72.7,0.271,2007,"Jermaine O'Neal, Jamaal Tinsley, Danny Granger",4.8,"Jermaine O'Neal",1.7,-0.3
+"246","Indiana Pacers",-1.5,0.498,13.5,24.4,0.224,0.498,14.1,73.9,0.271,2008,"Mike Dunleavy, Danny Granger, Troy Murphy",7,"Mike Dunleavy",2.8,-1
+"247","Indiana Pacers",-1.1,0.501,13.1,25.4,0.215,0.499,12.7,74.5,0.271,2009,"Danny Granger, Troy Murphy, T.J. Ford",8.8,"Danny Granger",4.2,-0.8
+"248","Indiana Pacers",-3.1,0.491,13.8,21.6,0.229,0.49,13.4,73,0.258,2010,"Danny Granger, Troy Murphy, Roy Hibbert",6.4,"Danny Granger",2.9,-1.5
+"249","Indiana Pacers",-1.2,0.486,14.1,25.9,0.235,0.487,12.8,74.1,0.237,2011,"Danny Granger, Josh McRoberts, Mike Dunleavy",6.1,"Danny Granger",2.9,-0.8
+"250","Indiana Pacers",3.6,0.474,13.1,29.2,0.251,0.476,14.1,72.3,0.222,2012,"Paul George, Danny Granger, David West",7,"Paul George",2.7,2.4
+"251","Indiana Pacers",4.5,0.479,14.3,30.3,0.219,0.453,12.9,74.6,0.197,2013,"Paul George, David West, George Hill",11.6,"Paul George",4.4,0.9
+"252","Indiana Pacers",4.8,0.49,14.3,24.9,0.226,0.46,12.9,76.8,0.197,2014,"Paul George, David West, Lance Stephenson",10.2,"Paul George",5,1.4
+"253","Indiana Pacers",0.3,0.484,13.1,24,0.201,0.478,12,77.9,0.217,2015,"George Hill, David West, C.J. Miles",5.3,"George Hill",2.3,0.1
+"254","Indiana Pacers",1.7,0.497,13.5,23.4,0.205,0.489,14.3,76,0.205,2016,"Paul George, George Hill, Monta Ellis",8.1,"Paul George",4.9,0
+"255","Indiana Pacers",-0.2,0.516,12.8,21.2,0.212,0.512,13.6,75.5,0.225,2017,"Paul George, Jeff Teague, Myles Turner",8.2,"Paul George",3.4,-0.5
+"256","Indiana Pacers",1.4,0.525,12.3,22.7,0.173,0.527,14.2,76.2,0.174,2018,"Victor Oladipo, Darren Collison, Thaddeus Young",8.8,"Victor Oladipo",5,1.5
+"257","Indiana Pacers",3.4,0.53,12.4,21.9,0.182,0.516,14.1,76.2,0.184,2019,"Domantas Sabonis, Myles Turner, Thaddeus Young",7,"Domantas Sabonis",2.4,0.8
+"258","Indiana Pacers",2,0.534,12,20,0.17,0.511,13,76.7,0.192,2020,"Domantas Sabonis, T.J. Warren, Malcolm Brogdon",6.2,"Domantas Sabonis",2.9,1.2
+"259","Indiana Pacers",0,0.542,11.9,20.2,0.18,0.531,12.7,74.9,0.201,2021,"Domantas Sabonis, Malcolm Brogdon, T.J. McConnell",6.8,"Domantas Sabonis",3.3,-0.4
+"260","Indiana Pacers",-3.5,0.531,12.7,25.5,0.184,0.552,11.9,76.2,0.204,2022,"Domantas Sabonis, Malcolm Brogdon, Myles Turner",6.2,"Domantas Sabonis",2.7,-2.4
+"261","Indiana Pacers",-3.1,0.545,13,23.4,0.209,0.554,13,72.2,0.229,2023,"Tyrese Haliburton, Buddy Hield, Myles Turner",8.7,"Tyrese Haliburton",4.4,-0.5
+"262","Indiana Pacers",2.3,0.578,11.4,23.5,0.175,0.559,12.2,74.2,0.228,2024,"Tyrese Haliburton, T.J. McConnell, Pascal Siakam",7,"Tyrese Haliburton",4.4,-0.1
+"263","Los Angeles Clippers",-4.5,0.467,14.8,29.1,0.252,0.481,13.1,70.2,0.222,2003,"Elton Brand, Corey Maggette, Eric Piatkowski",5.4,"Elton Brand",3.1,-2.1
+"264","Los Angeles Clippers",-5,0.453,15,32.8,0.275,0.494,12.9,70,0.231,2004,"Elton Brand, Corey Maggette, Quentin Richardson",7.4,"Elton Brand",4,-1.2
+"265","Los Angeles Clippers",-0.9,0.477,14.9,30.3,0.278,0.48,13,71.3,0.235,2005,"Elton Brand, Corey Maggette, Bobby Simmons",8.8,"Elton Brand",4.2,-0.4
+"266","Los Angeles Clippers",1.7,0.487,13.8,25.4,0.263,0.471,12.2,75.9,0.24,2006,"Elton Brand, Sam Cassell, Cuttino Mobley",10.5,"Elton Brand",6.8,1.4
+"267","Los Angeles Clippers",-0.5,0.481,14.5,27.2,0.28,0.488,13.3,74.7,0.249,2007,"Elton Brand, Corey Maggette, Tim Thomas",7.7,"Elton Brand",4.8,-0.1
+"268","Los Angeles Clippers",-7.9,0.465,13.7,23.1,0.264,0.503,12.8,73.1,0.236,2008,"Corey Maggette, Chris Kaman, Sam Cassell",4,"Corey Maggette",2.4,-1.4
+"269","Los Angeles Clippers",-9.4,0.481,14,25.1,0.202,0.512,12.4,71.2,0.227,2009,"Marcus Camby, Eric Gordon, Zach Randolph",4.4,"Marcus Camby",2,-1.8
+"270","Los Angeles Clippers",-6.8,0.491,14.8,27.1,0.206,0.509,12.2,74,0.214,2010,"Marcus Camby, Baron Davis, Eric Gordon",5,"Marcus Camby",2.2,1.1
+"271","Los Angeles Clippers",-3.4,0.496,15.1,28.4,0.234,0.499,12.8,73.2,0.25,2011,"Blake Griffin, Eric Gordon, Baron Davis",6.8,"Blake Griffin",3.6,0
+"272","Los Angeles Clippers",2.8,0.502,12.7,29.5,0.195,0.492,14.2,73.2,0.245,2012,"Chris Paul, Blake Griffin, DeAndre Jordan",11.3,"Chris Paul",6.1,-0.1
+"273","Los Angeles Clippers",7,0.526,13.9,28.8,0.203,0.492,15.4,73.5,0.229,2013,"Chris Paul, Blake Griffin, Eric Bledsoe",12.6,"Chris Paul",6.4,0.1
+"274","Los Angeles Clippers",7.3,0.526,12.7,25,0.258,0.484,13.8,72.5,0.222,2014,"Chris Paul, Blake Griffin, DeAndre Jordan",13.8,"Chris Paul",5.8,1.3
+"275","Los Angeles Clippers",6.9,0.533,11.6,22.8,0.215,0.493,13.2,75.7,0.231,2015,"Chris Paul, Blake Griffin, DeAndre Jordan",14.3,"Chris Paul",7.2,0.7
+"276","Los Angeles Clippers",4.5,0.524,12.1,20.1,0.22,0.48,13.8,73.8,0.222,2016,"Chris Paul, DeAndre Jordan, JJ Redick",11.4,"Chris Paul",6,0.5
+"277","Los Angeles Clippers",4.5,0.537,12,21.5,0.233,0.506,12.1,76.9,0.211,2017,"Chris Paul, Blake Griffin, DeAndre Jordan",12.2,"Chris Paul",5.2,0.7
+"278","Los Angeles Clippers",0.1,0.527,13.2,23.5,0.222,0.52,12.6,76.1,0.203,2018,"Lou Williams, DeAndre Jordan, Montrezl Harrell",6.6,"Lou Williams",2.8,-0.9
+"279","Los Angeles Clippers",0.9,0.529,12.7,22,0.258,0.514,11.4,76,0.224,2019,"Danilo Gallinari, Montrezl Harrell, Lou Williams",10.4,"Danilo Gallinari",3.3,1.6
+"280","Los Angeles Clippers",6.3,0.535,12.6,23.5,0.233,0.506,12.2,77.6,0.206,2020,"Kawhi Leonard, Paul George, Montrezl Harrell",9.8,"Kawhi Leonard",5.1,0.7
+"281","Los Angeles Clippers",6.4,0.564,12.2,22.7,0.186,0.531,11.9,79.1,0.186,2021,"Kawhi Leonard, Paul George, Nicolas Batum",9,"Kawhi Leonard",4.2,-0.6
+"282","Los Angeles Clippers",0,0.531,12.5,20.6,0.178,0.514,12,74.4,0.167,2022,"Isaiah Hartenstein, Nicolas Batum, Paul George",5.2,"Isaiah Hartenstein",2,0.9
+"283","Los Angeles Clippers",0.5,0.551,12.8,22.9,0.217,0.543,11.7,76.6,0.195,2023,"Kawhi Leonard, Paul George, Nicolas Batum",6.8,"Kawhi Leonard",3.5,0.5
+"284","Los Angeles Clippers",3.6,0.567,12,24.4,0.213,0.545,11.7,74.6,0.183,2024,"Kawhi Leonard, James Harden, Paul George",10.5,"Kawhi Leonard",4.2,1
+"285","Los Angeles Lakers",2.5,0.486,13.3,30.2,0.228,0.477,13.4,72.7,0.241,2003,"Kobe Bryant*, Shaquille O'Neal*, Robert Horry",14.8,"Kobe Bryant*",7.7,1.1
+"286","Los Angeles Lakers",4.2,0.481,12.8,28.1,0.244,0.471,14.3,73.3,0.222,2004,"Kobe Bryant*, Shaquille O'Neal*, Gary Payton*",11.7,"Kobe Bryant*",4.7,2.3
+"287","Los Angeles Lakers",-3.3,0.485,13.4,29.5,0.251,0.493,11,71.1,0.218,2005,"Kobe Bryant*, Lamar Odom, Caron Butler",7.6,"Kobe Bryant*",4.7,-0.2
+"288","Los Angeles Lakers",2.7,0.495,13.1,28.8,0.245,0.486,13.4,73.6,0.242,2006,"Kobe Bryant*, Lamar Odom, Smush Parker",13.4,"Kobe Bryant*",8,-0.3
+"289","Los Angeles Lakers",0,0.511,14.3,26.1,0.249,0.5,13.5,72.3,0.262,2007,"Kobe Bryant*, Lamar Odom, Luke Walton",9,"Kobe Bryant*",6.1,-0.2
+"290","Los Angeles Lakers",7.5,0.525,12.9,26.3,0.256,0.485,12.9,73.4,0.214,2008,"Kobe Bryant*, Lamar Odom, Pau Gasol*",11.2,"Kobe Bryant*",6.3,0.5
+"291","Los Angeles Lakers",8.1,0.513,12.3,29.4,0.23,0.49,14.2,73,0.213,2009,"Kobe Bryant*, Pau Gasol*, Lamar Odom",13.3,"Kobe Bryant*",5.9,2.2
+"292","Los Angeles Lakers",5.1,0.496,12.4,27.6,0.221,0.484,13.2,74.4,0.195,2010,"Kobe Bryant*, Pau Gasol*, Lamar Odom",11.5,"Kobe Bryant*",4.4,0.9
+"293","Los Angeles Lakers",6.7,0.502,12.3,29.2,0.228,0.477,12.8,72.3,0.181,2011,"Pau Gasol*, Kobe Bryant*, Lamar Odom",13.9,"Pau Gasol*",5.2,1.1
+"294","Los Angeles Lakers",1.6,0.491,14.2,29.1,0.226,0.476,10.7,74.8,0.158,2012,"Pau Gasol*, Kobe Bryant*, Andrew Bynum",8.8,"Pau Gasol*",3.3,2.1
+"295","Los Angeles Lakers",1.2,0.512,13.9,27,0.239,0.496,11.9,74.3,0.163,2013,"Kobe Bryant*, Dwight Howard, Pau Gasol*",8.5,"Kobe Bryant*",5,0.6
+"296","Los Angeles Lakers",-6.4,0.505,13.7,20.2,0.199,0.513,12.4,71,0.192,2014,"Pau Gasol*, Jodie Meeks, Nick Young",3.4,"Pau Gasol*",1.5,-0.3
+"297","Los Angeles Lakers",-7.2,0.473,12.1,25.4,0.204,0.518,12.1,76.3,0.231,2015,"Ed Davis, Jordan Clarkson, Jeremy Lin",3.2,"Ed Davis",1.6,-1.2
+"298","Los Angeles Lakers",-10,0.46,12.5,23.1,0.228,0.523,11.6,74.7,0.202,2016,"Lou Williams, Brandon Bass, Larry Nance Jr.",3.1,"Lou Williams",1.6,-0.7
+"299","Los Angeles Lakers",-7,0.501,13.5,25,0.195,0.542,13,75.8,0.213,2017,"Lou Williams, Larry Nance Jr., Nick Young",4.5,"Lou Williams",2.8,-1.5
+"300","Los Angeles Lakers",-1.5,0.517,13.8,23.6,0.188,0.514,12.5,77.7,0.19,2018,"Kentavious Caldwell-Pope, Julius Randle, Brook Lopez",5.4,"Kentavious Caldwell-Pope",1.4,-0.6
+"301","Los Angeles Lakers",-1.7,0.527,13.4,22.2,0.18,0.516,12.2,76.4,0.192,2019,"LeBron James, JaVale McGee, Kentavious Caldwell-Pope",7.1,"LeBron James",4.9,0.2
+"302","Los Angeles Lakers",5.7,0.542,13.3,24.5,0.201,0.515,14.1,78.8,0.205,2020,"LeBron James, Anthony Davis, Danny Green",12.6,"LeBron James",6.1,1
+"303","Los Angeles Lakers",2.8,0.536,13.6,22.5,0.2,0.526,13.7,79.7,0.184,2021,"LeBron James, Anthony Davis, Montrezl Harrell",7.8,"LeBron James",3.8,1.6
+"304","Los Angeles Lakers",-3,0.537,12.8,21.1,0.19,0.54,12.2,75.8,0.192,2022,"LeBron James, Anthony Davis, Malik Monk",7.9,"LeBron James",5.1,-0.4
+"305","Los Angeles Lakers",0.6,0.542,12.3,22.8,0.232,0.535,10.9,76.3,0.171,2023,"Anthony Davis, LeBron James, Austin Reaves",9.2,"Anthony Davis",4,0.6
+"306","Los Angeles Lakers",0.1,0.566,12.2,19.6,0.214,0.549,11.4,75.8,0.155,2024,"LeBron James, Anthony Davis, D'Angelo Russell",10.5,"LeBron James",4.5,0.9
+"307","Memphis Grizzlies",-3.4,0.487,14.2,27,0.212,0.491,13.4,68.7,0.197,2003,"Pau Gasol*, Shane Battier, Jason Williams",7.2,"Pau Gasol*",2.8,-0.7
+"308","Memphis Grizzlies",2.6,0.479,13.9,29.5,0.234,0.465,15.7,68.4,0.251,2004,"James Posey, Pau Gasol*, Jason Williams",11.1,"James Posey",3.5,0.9
+"309","Memphis Grizzlies",2.6,0.489,14.3,27.1,0.243,0.466,15.4,69.9,0.27,2005,"Shane Battier, Mike Miller, Pau Gasol*",8.3,"Shane Battier",2.8,0.6
+"310","Memphis Grizzlies",4.3,0.496,13.9,25.8,0.241,0.469,14.7,72,0.237,2006,"Pau Gasol*, Shane Battier, Mike Miller",12.2,"Pau Gasol*",6,1.3
+"311","Memphis Grizzlies",-5.4,0.504,15.2,25.9,0.285,0.529,14,71.1,0.237,2007,"Pau Gasol*, Mike Miller, Chucky Atkins",6.5,"Pau Gasol*",3,-1.3
+"312","Memphis Grizzlies",-6.4,0.5,14,23.8,0.225,0.521,12.2,73.4,0.196,2008,"Rudy Gay, Mike Miller, Pau Gasol*",5.6,"Rudy Gay",2.1,-0.4
+"313","Memphis Grizzlies",-6,0.486,14.8,25.8,0.249,0.515,14.1,73.5,0.247,2009,"Marc Gasol, Mike Conley, Hakim Warrick",3.7,"Marc Gasol",1.2,-1.7
+"314","Memphis Grizzlies",-1.6,0.494,13.7,31.3,0.235,0.52,13.2,73.3,0.205,2010,"Marc Gasol, Zach Randolph, Rudy Gay",7.5,"Marc Gasol",3,-0.2
+"315","Memphis Grizzlies",2.5,0.493,13,28.9,0.218,0.502,15.7,72.5,0.228,2011,"Zach Randolph, Marc Gasol, Rudy Gay",8.6,"Zach Randolph",3.2,-0.9
+"316","Memphis Grizzlies",2.2,0.473,13.6,29.8,0.211,0.485,16.3,72.7,0.227,2012,"Marc Gasol, Mike Conley, Rudy Gay",7.9,"Marc Gasol",3.1,1
+"317","Memphis Grizzlies",4.6,0.472,13.3,31,0.202,0.475,15.2,74.3,0.209,2013,"Marc Gasol, Mike Conley, Zach Randolph",11.2,"Marc Gasol",5.1,1.1
+"318","Memphis Grizzlies",1.7,0.494,13.1,28.3,0.184,0.497,13.8,75.7,0.199,2014,"Mike Conley, Marc Gasol, James Johnson",7.7,"Mike Conley",3.6,2.2
+"319","Memphis Grizzlies",3.5,0.489,12.6,24.7,0.214,0.492,14.5,75.3,0.183,2015,"Marc Gasol, Mike Conley, Zach Randolph",9.4,"Marc Gasol",4.8,1.5
+"320","Memphis Grizzlies",-2.4,0.477,12.3,25.3,0.231,0.518,15.2,75.1,0.251,2016,"Mike Conley, Marc Gasol, Mario Chalmers",5.1,"Mike Conley",2.2,1.3
+"321","Memphis Grizzlies",0.6,0.491,12.1,24.8,0.219,0.506,13.6,77.5,0.256,2017,"Mike Conley, Marc Gasol, Vince Carter",11,"Mike Conley",5.1,1
+"322","Memphis Grizzlies",-6.5,0.5,14,22.4,0.201,0.529,13.8,76.5,0.256,2018,"Marc Gasol, Tyreke Evans, Chandler Parsons",5.8,"Marc Gasol",2.7,-1
+"323","Memphis Grizzlies",-2.7,0.508,12.9,20,0.21,0.521,13.9,77.6,0.232,2019,"Mike Conley, Marc Gasol, Kyle Anderson",7.1,"Mike Conley",3.9,-1.2
+"324","Memphis Grizzlies",-1.1,0.528,13.2,23,0.183,0.521,12.7,77.8,0.217,2020,"Jonas Valančiūnas, Brandon Clarke, Ja Morant",4.9,"Jonas Valančiūnas",2,-1.3
+"325","Memphis Grizzlies",1,0.528,11.6,24.2,0.179,0.535,13.1,78.3,0.196,2021,"Kyle Anderson, Jonas Valančiūnas, Brandon Clarke",6,"Kyle Anderson",2.5,-0.5
+"326","Memphis Grizzlies",5.6,0.522,11.2,30,0.18,0.523,13.3,77.8,0.195,2022,"Ja Morant, Desmond Bane, Brandon Clarke",10.6,"Ja Morant",3.9,1.4
+"327","Memphis Grizzlies",3.9,0.54,11.7,26.5,0.19,0.526,13.1,75.9,0.206,2023,"Ja Morant, Desmond Bane, Jaren Jackson Jr.",8.5,"Ja Morant",3.8,0.3
+"328","Memphis Grizzlies",-7,0.512,13.5,23,0.186,0.549,13.3,74.7,0.191,2024,"Desmond Bane, Jaren Jackson Jr., Santi Aldama",3.5,"Desmond Bane",1.7,-0.8
+"329","Miami Heat",-5.7,0.439,13.8,26.8,0.198,0.47,14.1,73.9,0.257,2003,"Eddie Jones, Caron Butler, Brian Grant",6,"Eddie Jones",3.1,-1.2
+"330","Miami Heat",0.5,0.463,13.5,27.4,0.227,0.463,14.5,73.4,0.26,2004,"Lamar Odom, Eddie Jones, Dwyane Wade*",11,"Lamar Odom",3.8,0.7
+"331","Miami Heat",7.1,0.524,13.1,27,0.26,0.46,12.4,74.1,0.242,2005,"Dwyane Wade*, Shaquille O'Neal*, Damon Jones",12.7,"Dwyane Wade*",4.9,1.8
+"332","Miami Heat",4.2,0.517,13.9,26.7,0.254,0.477,12.4,76.4,0.251,2006,"Dwyane Wade*, Shaquille O'Neal*, Jason Williams",10.7,"Dwyane Wade*",7.1,0
+"333","Miami Heat",-1,0.506,14.3,24.9,0.222,0.485,13.8,73.3,0.232,2007,"Dwyane Wade*, James Posey, Jason Williams",9.6,"Dwyane Wade*",4.9,1
+"334","Miami Heat",-9.5,0.482,14.4,22.1,0.218,0.51,13.6,71.9,0.245,2008,"Dwyane Wade*, Jason Williams, Dorell Wright",3.5,"Dwyane Wade*",2.3,-2.1
+"335","Miami Heat",0.2,0.5,12.1,24.6,0.212,0.501,14.5,72.9,0.251,2009,"Dwyane Wade*, Mario Chalmers, Shawn Marion",11.5,"Dwyane Wade*",9.6,0
+"336","Miami Heat",2.5,0.496,12.8,26.1,0.223,0.48,13.9,74.9,0.246,2010,"Dwyane Wade*, Quentin Richardson, Dorell Wright",11.1,"Dwyane Wade*",7.9,-0.4
+"337","Miami Heat",8.2,0.524,13.5,25.2,0.279,0.475,12.6,75.5,0.223,2011,"LeBron James, Dwyane Wade*, Chris Bosh*",16.2,"LeBron James",7.8,1.1
+"338","Miami Heat",6.4,0.505,14.5,26.6,0.238,0.479,15.8,73.9,0.2,2012,"LeBron James, Dwyane Wade*, Chris Bosh*",13,"LeBron James",7.6,1
+"339","Miami Heat",8.6,0.552,13.7,22.2,0.224,0.487,14.8,73,0.2,2013,"LeBron James, Dwyane Wade*, Chris Bosh*",15.8,"LeBron James",9.9,3.3
+"340","Miami Heat",5.1,0.554,14.6,20.6,0.228,0.511,15.8,73,0.212,2014,"LeBron James, Dwyane Wade*, Chris Bosh*",11.9,"LeBron James",7.9,0.6
+"341","Miami Heat",-2.8,0.5,14.5,23.2,0.227,0.505,14.2,73.4,0.213,2015,"Dwyane Wade*, Hassan Whiteside, Chris Bosh*",5.2,"Dwyane Wade*",2.1,1.2
+"342","Miami Heat",1.7,0.508,13.3,23.8,0.21,0.485,12.1,77.8,0.196,2016,"Hassan Whiteside, Chris Bosh*, Dwyane Wade*",8.2,"Hassan Whiteside",3.3,1.4
+"343","Miami Heat",1.1,0.512,12.4,24.2,0.177,0.496,12.6,76.4,0.22,2017,"Goran Dragić, James Johnson, Hassan Whiteside",7.6,"Goran Dragić",2.9,-0.7
+"344","Miami Heat",0.5,0.52,13.3,21.5,0.173,0.507,13.1,79,0.215,2018,"Kelly Olynyk, Josh Richardson, James Johnson",5.4,"Kelly Olynyk",1.9,0.8
+"345","Miami Heat",-0.3,0.515,13.1,24.8,0.172,0.51,12.7,77.6,0.201,2019,"Bam Adebayo, Hassan Whiteside, Josh Richardson",5.1,"Bam Adebayo",1.8,-0.4
+"346","Miami Heat",3,0.547,13.5,20.3,0.234,0.523,12.6,79.5,0.213,2020,"Jimmy Butler, Bam Adebayo, Duncan Robinson",8.3,"Jimmy Butler",3.7,-1.1
+"347","Miami Heat",0,0.546,13.1,19.4,0.199,0.542,13.8,77.9,0.183,2021,"Jimmy Butler, Bam Adebayo, Duncan Robinson",9.2,"Jimmy Butler",4.3,-0.3
+"348","Miami Heat",4.6,0.547,13.4,23.5,0.204,0.524,13.8,78,0.209,2022,"Jimmy Butler, Bam Adebayo, Kyle Lowry",8.8,"Jimmy Butler",4,0.5
+"349","Miami Heat",-0.3,0.53,12.4,22.8,0.224,0.561,14.5,77.7,0.198,2023,"Jimmy Butler, Bam Adebayo, Tyler Herro",9.7,"Jimmy Butler",5.8,1.3
+"350","Miami Heat",0.8,0.534,11.7,21.9,0.212,0.547,12.7,78,0.177,2024,"Jimmy Butler, Bam Adebayo, Kevin Love",6.5,"Jimmy Butler",3,-1.1
+"351","Milwaukee Bucks",0.2,0.5,12.2,25.6,0.222,0.494,13.5,69.9,0.237,2003,"Michael Redd, Sam Cassell, Toni Kukoč*",8.7,"Michael Redd",3.4,-0.1
+"352","Milwaukee Bucks",1.1,0.477,12.7,27.6,0.255,0.485,13.3,71.8,0.213,2004,"Michael Redd, Toni Kukoč*, Desmond Mason",7.1,"Michael Redd",3.5,-0.3
+"353","Milwaukee Bucks",-3.2,0.475,13,29,0.261,0.499,12.4,72,0.233,2005,"Michael Redd, Dan Gadzuric, Mike James",4.1,"Michael Redd",2.2,-0.9
+"354","Milwaukee Bucks",-1.1,0.492,13.8,27.3,0.238,0.504,13.8,74.6,0.262,2006,"Michael Redd, Bobby Simmons, Andrew Bogut",7.5,"Michael Redd",4.6,0.6
+"355","Milwaukee Bucks",-4.7,0.504,14.1,27.6,0.209,0.522,14.5,68.1,0.234,2007,"Michael Redd, Ruben Patterson, Andrew Bogut",5.6,"Michael Redd",2.5,-1.2
+"356","Milwaukee Bucks",-7.5,0.482,13.7,30,0.215,0.524,13,73,0.25,2008,"Michael Redd, Andrew Bogut, Mo Williams",5.2,"Michael Redd",2.4,-0.4
+"357","Milwaukee Bucks",-1.2,0.483,13.1,27.8,0.239,0.503,15.6,74,0.315,2009,"Ramon Sessions, Richard Jefferson, Charlie Villanueva",5.1,"Ramon Sessions",1.9,-0.6
+"358","Milwaukee Bucks",1.8,0.482,12.3,26.2,0.181,0.486,14.6,76.4,0.266,2010,"Andrew Bogut, Carlos Delfino, Luke Ridnour",8.4,"Andrew Bogut",2.8,0.5
+"359","Milwaukee Bucks",-0.9,0.467,13,24.7,0.217,0.481,14.7,74.8,0.236,2011,"Brandon Jennings, Andrew Bogut, Carlos Delfino",5.3,"Brandon Jennings",2,-0.1
+"360","Milwaukee Bucks",0.3,0.481,12.9,27.7,0.194,0.489,14.6,70.9,0.217,2012,"Brandon Jennings, Ersan İlyasova, Mike Dunleavy",5.7,"Brandon Jennings",2.8,-0.5
+"361","Milwaukee Bucks",-1.6,0.476,12.7,27.9,0.174,0.492,14.4,71.3,0.201,2013,"Brandon Jennings, Monta Ellis, Ersan İlyasova",6.3,"Brandon Jennings",2.2,0.5
+"362","Milwaukee Bucks",-8.8,0.479,14.1,27.1,0.204,0.52,13.2,71.4,0.225,2014,"Brandon Knight, John Henson, Ramon Sessions",2,"Brandon Knight",0.9,-2.4
+"363","Milwaukee Bucks",0.5,0.499,15.5,25.4,0.195,0.487,15.9,73.3,0.221,2015,"Khris Middleton, Brandon Knight, Giannis Antetokounmpo",5.3,"Khris Middleton",2.2,-0.5
+"364","Milwaukee Bucks",-4.4,0.499,14.2,24.9,0.207,0.51,14.2,73.1,0.221,2016,"Giannis Antetokounmpo, Greg Monroe, Khris Middleton",7.2,"Giannis Antetokounmpo",2.9,-0.2
+"365","Milwaukee Bucks",-0.2,0.527,13.2,21.5,0.21,0.518,13.6,75.4,0.215,2017,"Giannis Antetokounmpo, Greg Monroe, Jabari Parker",9.6,"Giannis Antetokounmpo",6.7,-1.3
+"366","Milwaukee Bucks",-0.3,0.531,12.9,20.4,0.22,0.528,14.2,75.9,0.22,2018,"Giannis Antetokounmpo, Eric Bledsoe, Khris Middleton",9.9,"Giannis Antetokounmpo",5.7,0.4
+"367","Milwaukee Bucks",8.6,0.55,12,20.8,0.197,0.503,11.5,80.3,0.162,2019,"Giannis Antetokounmpo, Eric Bledsoe, Brook Lopez",12.7,"Giannis Antetokounmpo",7.4,0.4
+"368","Milwaukee Bucks",9.5,0.552,12.9,20.7,0.201,0.489,12,81.6,0.178,2020,"Giannis Antetokounmpo, Khris Middleton, Brook Lopez",11.4,"Giannis Antetokounmpo",6.6,1.8
+"369","Milwaukee Bucks",5.8,0.566,12,23.3,0.177,0.536,11.5,79.7,0.157,2021,"Giannis Antetokounmpo, Jrue Holiday, Khris Middleton",10.1,"Giannis Antetokounmpo",5.6,-0.1
+"370","Milwaukee Bucks",3.3,0.546,11.9,23,0.199,0.536,11.6,78.6,0.165,2022,"Giannis Antetokounmpo, Jrue Holiday, Khris Middleton",12.2,"Giannis Antetokounmpo",7.4,1
+"371","Milwaukee Bucks",3.5,0.555,12.7,25,0.184,0.52,10.4,77.8,0.175,2023,"Giannis Antetokounmpo, Jrue Holiday, Brook Lopez",10.7,"Giannis Antetokounmpo",5.4,1
+"372","Milwaukee Bucks",3.7,0.573,11.3,21.7,0.216,0.54,10.6,77,0.187,2024,"Giannis Antetokounmpo, Damian Lillard, Brook Lopez",10.7,"Giannis Antetokounmpo",6.4,2.3
+"373","Minnesota Timberwolves",2.3,0.488,12.9,28.2,0.206,0.472,12.7,72.9,0.203,2003,"Kevin Garnett*, Wally Szczerbiak, Rasho Nesterović",12.2,"Kevin Garnett*",8.7,1.5
+"374","Minnesota Timberwolves",6.2,0.486,12.4,26.7,0.207,0.444,12.9,72.5,0.215,2004,"Kevin Garnett*, Sam Cassell, Fred Hoiberg",16.4,"Kevin Garnett*",10,1.6
+"375","Minnesota Timberwolves",1.6,0.489,12.7,28.6,0.219,0.472,11.2,71.4,0.208,2005,"Kevin Garnett*, Fred Hoiberg, Wally Szczerbiak",12.9,"Kevin Garnett*",9.1,0.9
+"376","Minnesota Timberwolves",-2.1,0.48,14.2,25.2,0.226,0.475,13.4,71.3,0.236,2006,"Kevin Garnett*, Wally Szczerbiak, Marko Jarić",9.6,"Kevin Garnett*",7.4,-1
+"377","Minnesota Timberwolves",-4,0.49,14.8,25.1,0.231,0.498,13.3,72.1,0.226,2007,"Kevin Garnett*, Ricky Davis, Randy Foye",7.8,"Kevin Garnett*",5.5,-0.8
+"378","Minnesota Timberwolves",-7.4,0.484,13.6,27.5,0.183,0.513,12.9,73.6,0.269,2008,"Al Jefferson, Ryan Gomes, Rashad McCants",4.9,"Al Jefferson",2.6,-1.7
+"379","Minnesota Timberwolves",-5.3,0.481,13.3,27.7,0.222,0.515,12,75,0.254,2009,"Al Jefferson, Mike Miller, Randy Foye",4.7,"Al Jefferson",2.1,-1.7
+"380","Minnesota Timberwolves",-9.9,0.478,14.6,26.7,0.207,0.525,13,73.6,0.22,2010,"Al Jefferson, Kevin Love, Damien Wilkins",3.3,"Al Jefferson",1.5,-1.1
+"381","Minnesota Timberwolves",-6.9,0.483,15.1,29.6,0.217,0.514,13.1,73.7,0.251,2011,"Kevin Love, Luke Ridnour, Anthony Tolliver",6,"Kevin Love",4.2,-3.3
+"382","Minnesota Timberwolves",-2.3,0.477,14,27.5,0.236,0.491,12.2,73,0.187,2012,"Kevin Love, Ricky Rubio, Nikola Peković",6,"Kevin Love",3.9,-0.5
+"383","Minnesota Timberwolves",-2.5,0.473,13.8,27.4,0.226,0.511,15,74,0.187,2013,"Andrei Kirilenko, Ricky Rubio, Nikola Peković",5.4,"Andrei Kirilenko",2.9,-0.7
+"384","Minnesota Timberwolves",2.7,0.486,12.2,27.4,0.249,0.518,14.8,74.4,0.177,2014,"Kevin Love, Ricky Rubio, Kevin Martin",11.1,"Kevin Love",7.7,-2.2
+"385","Minnesota Timberwolves",-9.3,0.468,13.7,26.6,0.24,0.537,13.9,71.6,0.187,2015,"Gorgui Dieng, Shabazz Muhammad, Thaddeus Young",2.4,"Gorgui Dieng",1.2,-0.8
+"386","Minnesota Timberwolves",-3.6,0.498,13.9,24.3,0.263,0.524,13.6,74.7,0.2,2016,"Karl-Anthony Towns, Ricky Rubio, Gorgui Dieng",6.5,"Karl-Anthony Towns",2.7,-0.8
+"387","Minnesota Timberwolves",-1.2,0.511,12.9,27.2,0.229,0.535,13.2,75.9,0.212,2017,"Karl-Anthony Towns, Ricky Rubio, Gorgui Dieng",8.3,"Karl-Anthony Towns",5.2,-1.2
+"388","Minnesota Timberwolves",2.3,0.523,11.4,24.4,0.225,0.539,13.9,76.4,0.189,2018,"Karl-Anthony Towns, Jimmy Butler, Jeff Teague",10.8,"Karl-Anthony Towns",5.2,-0.1
+"389","Minnesota Timberwolves",-1.5,0.511,11.4,24.6,0.21,0.538,12.9,74.9,0.19,2019,"Karl-Anthony Towns, Derrick Rose, Taj Gibson",8.7,"Karl-Anthony Towns",5.1,-1.1
+"390","Minnesota Timberwolves",-4.1,0.514,13,22.1,0.209,0.541,13.2,77.2,0.218,2020,"Karl-Anthony Towns, Robert Covington, Gorgui Dieng",4.3,"Karl-Anthony Towns",2.9,-1.2
+"391","Minnesota Timberwolves",-5.5,0.52,12.4,22.7,0.193,0.556,13.3,76.8,0.207,2021,"Karl-Anthony Towns, D'Angelo Russell, Naz Reid",5.1,"Karl-Anthony Towns",2.8,-1.6
+"392","Minnesota Timberwolves",2.6,0.539,12.4,24.4,0.198,0.535,14.2,74.9,0.227,2022,"Karl-Anthony Towns, Anthony Edwards, Patrick Beverley",8.1,"Karl-Anthony Towns",4.4,0.1
+"393","Minnesota Timberwolves",-0.1,0.56,13.6,21.5,0.205,0.54,13.3,74.3,0.225,2023,"Kyle Anderson, Anthony Edwards, D'Angelo Russell",7.1,"Kyle Anderson",2.2,0.3
+"394","Minnesota Timberwolves",6.7,0.558,13,23.4,0.209,0.513,12.7,77,0.198,2024,"Anthony Edwards, Mike Conley, Karl-Anthony Towns",8.4,"Anthony Edwards",3.5,-0.9
+"395","New Orleans Pelicans",2.3,0.465,13.9,31.7,0.219,0.464,14,73.1,0.226,2003,"Jamal Mashburn, P.J. Brown, Baron Davis",9,"Jamal Mashburn",3.5,0.8
+"396","New Orleans Pelicans",-0.1,0.46,14.1,30.6,0.22,0.476,15,71.3,0.218,2004,"Baron Davis, Darrell Armstrong, P.J. Brown",9.2,"Baron Davis",4.8,0.1
+"397","New Orleans Pelicans",-8,0.446,14.2,29.1,0.214,0.491,13.9,70.7,0.261,2005,"P.J. Brown, Chris Andersen, Dan Dickau",5,"P.J. Brown",1.5,-1.9
+"398","New Orleans Pelicans",-3.1,0.464,12.9,26.9,0.257,0.502,14.3,73.4,0.243,2006,"Chris Paul, David West, Speedy Claxton",8.4,"Chris Paul",5.1,0.4
+"399","New Orleans Pelicans",-1.7,0.479,13.6,29.1,0.215,0.499,13.2,74.7,0.212,2007,"Chris Paul, Tyson Chandler, David West",7.2,"Chris Paul",4.2,0.3
+"400","New Orleans Pelicans",5.8,0.512,11.4,27,0.193,0.501,13.5,75.4,0.184,2008,"Chris Paul, David West, Peja Stojaković",14.4,"Chris Paul",9.3,0.8
+"401","New Orleans Pelicans",1.7,0.501,12.5,24.6,0.232,0.496,13.2,74.9,0.23,2009,"Chris Paul, David West, Rasual Butler",12.9,"Chris Paul",9.9,0.6
+"402","New Orleans Pelicans",-2.7,0.506,12.7,24.8,0.189,0.523,13.5,73.8,0.205,2010,"Chris Paul, David West, Marcus Thornton",7,"Chris Paul",3.5,0.8
+"403","New Orleans Pelicans",1,0.493,12.8,25.1,0.226,0.501,14.4,76.2,0.22,2011,"Chris Paul, David West, Trevor Ariza",10.7,"Chris Paul",6.7,1.1
+"404","New Orleans Pelicans",-4.2,0.476,15.2,27.5,0.207,0.485,13.5,73.1,0.218,2012,"Jarrett Jack, Gustavo Ayón, Trevor Ariza",3.7,"Jarrett Jack",1.4,-1
+"405","New Orleans Pelicans",-4.4,0.489,14,29.2,0.193,0.52,13.1,74.4,0.208,2013,"Ryan Anderson, Anthony Davis, Robin Lopez",6,"Ryan Anderson",2.5,-2.3
+"406","New Orleans Pelicans",-2.9,0.495,12.9,26.9,0.22,0.515,13.6,73.8,0.249,2014,"Anthony Davis, Tyreke Evans, Eric Gordon",6.1,"Anthony Davis",4,-0.2
+"407","New Orleans Pelicans",0.9,0.501,12.5,27.1,0.198,0.496,11.7,75.1,0.195,2015,"Anthony Davis, Tyreke Evans, Jrue Holiday",10.5,"Anthony Davis",6.7,0.1
+"408","New Orleans Pelicans",-3.9,0.498,12.3,21.2,0.201,0.523,12.7,78.8,0.225,2016,"Anthony Davis, Jrue Holiday, Ryan Anderson",6,"Anthony Davis",3.2,-0.8
+"409","New Orleans Pelicans",-2.2,0.504,11.7,18.5,0.192,0.509,12.4,76.8,0.177,2017,"Anthony Davis, Jrue Holiday, DeMarcus Cousins",8.3,"Anthony Davis",5.4,-0.5
+"410","New Orleans Pelicans",1.3,0.541,13.3,20,0.183,0.513,12.5,76.7,0.175,2018,"Anthony Davis, DeMarcus Cousins, Jrue Holiday",11.5,"Anthony Davis",5.9,1.2
+"411","New Orleans Pelicans",-1.2,0.529,12.6,24.1,0.193,0.532,11.6,76.8,0.193,2019,"Anthony Davis, Jrue Holiday, Julius Randle",10.4,"Anthony Davis",5.3,-0.9
+"412","New Orleans Pelicans",-1.2,0.539,13.9,24.2,0.186,0.532,12.4,77.8,0.212,2020,"Brandon Ingram, Jrue Holiday, Lonzo Ball",5.5,"Brandon Ingram",2.2,-2.5
+"413","New Orleans Pelicans",-0.3,0.537,12.7,26.3,0.214,0.55,11.9,80,0.186,2021,"Zion Williamson, Brandon Ingram, Lonzo Ball",7.8,"Zion Williamson",4,0.7
+"414","New Orleans Pelicans",-1,0.517,12.5,26.9,0.208,0.547,13,78.2,0.196,2022,"Jonas Valančiūnas, Brandon Ingram, CJ McCollum",5.6,"Jonas Valančiūnas",2.2,-0.7
+"415","New Orleans Pelicans",1.9,0.543,12.9,24.7,0.221,0.543,13.4,77.4,0.212,2023,"Trey Murphy III, CJ McCollum, Zion Williamson",6.1,"Trey Murphy III",2.3,1.2
+"416","New Orleans Pelicans",5.4,0.56,11.9,25,0.202,0.535,12.7,76.7,0.189,2024,"Zion Williamson, CJ McCollum, Brandon Ingram",6.8,"Zion Williamson",3,-0.8
+"417","New York Knicks",-1.5,0.486,13.4,24.4,0.196,0.485,13.7,71.8,0.261,2003,"Allan Houston, Charlie Ward, Latrell Sprewell",5.5,"Allan Houston",2.4,-0.5
+"418","New York Knicks",-1.6,0.474,15.1,28,0.211,0.461,13.2,72.8,0.259,2004,"Stephon Marbury, Charlie Ward, Keith Van Horn",5,"Stephon Marbury",2.5,1.3
+"419","New York Knicks",-2.7,0.485,13.8,28.3,0.239,0.501,13.8,71.2,0.265,2005,"Stephon Marbury, Jamal Crawford, Kurt Thomas",8.1,"Stephon Marbury",5.1,-2.1
+"420","New York Knicks",-7,0.481,16.5,31.2,0.303,0.511,13.4,72.8,0.294,2006,"Jamal Crawford, Stephon Marbury, David Lee",3.3,"Jamal Crawford",1.6,-1
+"421","New York Knicks",-3.1,0.494,15.9,31,0.27,0.504,13,74,0.246,2007,"David Lee, Stephon Marbury, Quentin Richardson",4.8,"David Lee",2.2,0.1
+"422","New York Knicks",-7.2,0.475,13.4,28.6,0.226,0.518,12.1,72.7,0.229,2008,"Jamal Crawford, David Lee, Nate Robinson",4.3,"Jamal Crawford",1.9,-1.5
+"423","New York Knicks",-2.7,0.503,12.9,24.4,0.21,0.52,13,72.7,0.215,2009,"Nate Robinson, David Lee, Al Harrington",5.6,"Nate Robinson",2.4,-0.9
+"424","New York Knicks",-4,0.509,13,23.5,0.2,0.526,13.3,72.1,0.207,2010,"David Lee, Danilo Gallinari, Al Harrington",5.8,"David Lee",3.5,-0.1
+"425","New York Knicks",0.8,0.513,12.6,24.2,0.246,0.511,13.8,71.9,0.24,2011,"Amar'e Stoudemire, Landry Fields, Raymond Felton",5.1,"Amar'e Stoudemire",2.4,-0.4
+"426","New York Knicks",3.4,0.492,14.9,26.6,0.227,0.485,15.9,73.7,0.224,2012,"Carmelo Anthony, Tyson Chandler, Steve Novak",6.5,"Carmelo Anthony",2.7,-0.1
+"427","New York Knicks",4.8,0.515,11.7,25.6,0.196,0.508,14.8,74.7,0.216,2013,"Carmelo Anthony, Jason Kidd*, J.R. Smith",8.8,"Carmelo Anthony",3.9,0.6
+"428","New York Knicks",-0.8,0.505,12.5,25.1,0.189,0.514,14,74.3,0.245,2014,"Carmelo Anthony, J.R. Smith, Tyson Chandler",7.3,"Carmelo Anthony",5.3,-0.6
+"429","New York Knicks",-10.1,0.47,14,24.5,0.18,0.512,13.3,73.1,0.234,2015,"Carmelo Anthony, Alexey Shved, Cole Aldrich",3.1,"Carmelo Anthony",1.8,-1.1
+"430","New York Knicks",-3,0.483,12.6,23.7,0.205,0.487,10.5,75.8,0.204,2016,"Carmelo Anthony, Kristaps Porziņģis, Robin Lopez",5.9,"Carmelo Anthony",3.4,-1
+"431","New York Knicks",-3.8,0.496,12.4,26.6,0.188,0.511,11.7,74.1,0.214,2017,"Carmelo Anthony, Kristaps Porziņģis, Kyle O'Quinn",4.2,"Carmelo Anthony",1.7,-0.1
+"432","New York Knicks",-3.6,0.51,13.3,24.1,0.17,0.522,12.2,76.7,0.208,2018,"Enes Freedom, Kyle O'Quinn, Kristaps Porziņģis",5.2,"Enes Freedom",1.9,-1.1
+"433","New York Knicks",-9.2,0.49,12.4,22.1,0.205,0.533,11.7,76.1,0.203,2019,"Mitchell Robinson, Enes Freedom, Luke Kornet",3.2,"Mitchell Robinson",1.6,-1
+"434","New York Knicks",-6.5,0.501,12.6,25.8,0.182,0.541,12.4,78.3,0.224,2020,"Mitchell Robinson, Marcus Morris, Julius Randle",3.6,"Mitchell Robinson",1.8,-0.3
+"435","New York Knicks",2.4,0.524,11.9,21.9,0.19,0.509,11.7,78.6,0.196,2021,"Julius Randle, Nerlens Noel, Alec Burks",6.3,"Julius Randle",3.9,1.3
+"436","New York Knicks",-0.1,0.513,12,25.1,0.208,0.521,11.7,78.8,0.198,2022,"Mitchell Robinson, Alec Burks, Julius Randle",5.3,"Mitchell Robinson",2,-1.7
+"437","New York Knicks",3,0.541,11.4,28.3,0.217,0.536,11.4,77.1,0.21,2023,"Julius Randle, Jalen Brunson, Immanuel Quickley",9.5,"Julius Randle",3.9,-1.4
+"438","New York Knicks",4.5,0.535,12,29.5,0.193,0.54,12.1,76.7,0.175,2024,"Jalen Brunson, Donte DiVincenzo, Isaiah Hartenstein",9.2,"Jalen Brunson",4.3,2.2
+"439","Oklahoma City Thunder",-0.2,0.472,12.8,28.1,0.201,0.484,14.3,71.8,0.21,2003,"Gary Payton*, Brent Barry, Ray Allen*",8.7,"Gary Payton*",3.2,0
+"440","Oklahoma City Thunder",-0.7,0.501,13.9,27.2,0.207,0.487,13.9,68.5,0.237,2004,"Ray Allen*, Brent Barry, Rashard Lewis",7.8,"Ray Allen*",3.2,0.3
+"441","Oklahoma City Thunder",2.6,0.495,13,32.4,0.259,0.496,12.9,71.3,0.249,2005,"Ray Allen*, Rashard Lewis, Antonio Daniels",10.9,"Ray Allen*",4.8,1.8
+"442","Oklahoma City Thunder",-3.3,0.504,13.7,30.4,0.246,0.527,13.6,69,0.26,2006,"Ray Allen*, Rashard Lewis, Luke Ridnour",9.5,"Ray Allen*",4.9,0
+"443","Oklahoma City Thunder",-3.1,0.499,14.5,27.8,0.228,0.515,14.1,70.9,0.243,2007,"Rashard Lewis, Ray Allen*, Earl Watson",7.5,"Rashard Lewis",3.6,-0.1
+"444","Oklahoma City Thunder",-9,0.467,14.3,26.8,0.204,0.503,11.9,73.7,0.215,2008,"Kevin Durant, Wally Szczerbiak, Kurt Thomas",2.8,"Kevin Durant",1.3,-0.3
+"445","Oklahoma City Thunder",-6.5,0.471,14.8,28.6,0.242,0.514,13,73.9,0.216,2009,"Kevin Durant, Russell Westbrook, Thabo Sefolosha",5.7,"Kevin Durant",3.8,-0.4
+"446","Oklahoma City Thunder",3.7,0.494,13.9,28.6,0.268,0.483,14,73.6,0.229,2010,"Kevin Durant, Russell Westbrook, Jeff Green",11.5,"Kevin Durant",7.5,-0.5
+"447","Oklahoma City Thunder",4,0.501,13.1,27.4,0.299,0.493,12.9,73.6,0.228,2011,"Kevin Durant, Russell Westbrook, James Harden",11.9,"Kevin Durant",5.3,1.6
+"448","Oklahoma City Thunder",6.6,0.516,15.3,27.8,0.269,0.465,13,72.1,0.207,2012,"Kevin Durant, James Harden, Russell Westbrook",11.9,"Kevin Durant",5.8,0.4
+"449","Oklahoma City Thunder",9.8,0.527,14.4,26.7,0.28,0.469,13.5,73.4,0.197,2013,"Kevin Durant, Russell Westbrook, Thabo Sefolosha",16,"Kevin Durant",8.9,1.2
+"450","Oklahoma City Thunder",6.6,0.52,14,26.5,0.244,0.488,13.9,75.6,0.221,2014,"Kevin Durant, Russell Westbrook, Serge Ibaka",14.8,"Kevin Durant",9.6,0.2
+"451","Oklahoma City Thunder",2.3,0.492,13.1,28.9,0.214,0.489,12.4,75.6,0.213,2015,"Russell Westbrook, Kevin Durant, Anthony Morrow",10.3,"Russell Westbrook",5.8,0
+"452","Oklahoma City Thunder",7.5,0.524,14,31.1,0.228,0.484,11.7,76,0.205,2016,"Kevin Durant, Russell Westbrook, Enes Freedom",16,"Kevin Durant",7.8,-0.5
+"453","Oklahoma City Thunder",0.8,0.5,13.2,27.9,0.22,0.511,12.5,79,0.218,2017,"Russell Westbrook, Enes Freedom, Steven Adams",11.8,"Russell Westbrook",9.3,1.9
+"454","Oklahoma City Thunder",3.5,0.514,12.4,27.7,0.197,0.525,14.7,77.4,0.193,2018,"Russell Westbrook, Paul George, Steven Adams",11.7,"Russell Westbrook",6.1,-0.3
+"455","Oklahoma City Thunder",3.3,0.514,11.7,26,0.19,0.523,14.4,78.2,0.206,2019,"Paul George, Russell Westbrook, Steven Adams",13.4,"Paul George",6.6,0.1
+"456","Oklahoma City Thunder",2,0.53,12.4,19.3,0.231,0.518,12.6,76.8,0.173,2020,"Chris Paul, Danilo Gallinari, Shai Gilgeous-Alexander",8.1,"Chris Paul",3.5,2.3
+"457","Oklahoma City Thunder",-10.5,0.509,14.2,21.2,0.176,0.547,11.5,77.9,0.167,2021,"Shai Gilgeous-Alexander, Al Horford, Kenrich Williams",3.3,"Shai Gilgeous-Alexander",1.8,0
+"458","Oklahoma City Thunder",-8.2,0.497,12.5,21.8,0.169,0.533,11.8,76.1,0.169,2022,"Shai Gilgeous-Alexander, Mike Muscala, Isaiah Roby",4.4,"Shai Gilgeous-Alexander",2.7,-0.3
+"459","Oklahoma City Thunder",1,0.531,11.2,24.7,0.207,0.547,14.4,72.9,0.222,2023,"Shai Gilgeous-Alexander, Josh Giddey, Jalen Williams",8.8,"Shai Gilgeous-Alexander",5.6,-0.7
+"460","Oklahoma City Thunder",7.4,0.573,11.2,21.2,0.199,0.531,13.8,73.3,0.205,2024,"Shai Gilgeous-Alexander, Chet Holmgren, Jalen Williams",12,"Shai Gilgeous-Alexander",6.8,1.9
+"461","Orlando Magic",0.2,0.478,13.3,27,0.239,0.486,15.1,71.1,0.25,2003,"Tracy McGrady*, Darrell Armstrong, Grant Hill*",12.1,"Tracy McGrady*",9.3,0
+"462","Orlando Magic",-7.7,0.461,12.8,28.1,0.218,0.502,12.7,68.7,0.214,2004,"Tracy McGrady*, Shammond Williams, Rod Strickland",6,"Tracy McGrady*",5.7,-0.5
+"463","Orlando Magic",-2.4,0.478,14.6,29.9,0.265,0.484,13.2,71.3,0.255,2005,"Grant Hill*, Steve Francis, Dwight Howard",6.5,"Grant Hill*",2.7,-0.8
+"464","Orlando Magic",-1.2,0.496,14.7,28.5,0.27,0.49,13,72.5,0.264,2006,"Hedo Türkoğlu, Dwight Howard, Jameer Nelson",6.6,"Hedo Türkoğlu",2.5,-0.6
+"465","Orlando Magic",0.8,0.5,16.3,29.3,0.276,0.48,14.6,73.7,0.286,2007,"Dwight Howard, Grant Hill*, Hedo Türkoğlu",6.6,"Dwight Howard",3.7,-1.3
+"466","Orlando Magic",5.8,0.537,13.6,23.4,0.256,0.484,12.3,74.8,0.217,2008,"Rashard Lewis, Dwight Howard, Hedo Türkoğlu",11.3,"Rashard Lewis",4,0.7
+"467","Orlando Magic",7.3,0.52,13.4,24,0.251,0.465,12.3,75.9,0.209,2009,"Dwight Howard, Rashard Lewis, Hedo Türkoğlu",11.2,"Dwight Howard",4.7,1.5
+"468","Orlando Magic",8.1,0.536,13.6,24.6,0.246,0.477,12.2,77.4,0.205,2010,"Dwight Howard, Vince Carter, Rashard Lewis",9.2,"Dwight Howard",4.6,0.8
+"469","Orlando Magic",5.9,0.521,14.3,26.1,0.227,0.475,13.3,76.9,0.219,2011,"Dwight Howard, Ryan Anderson, Hedo Türkoğlu",9.7,"Dwight Howard",5.4,0.3
+"470","Orlando Magic",0.9,0.506,14.5,26.5,0.193,0.488,12.9,75.5,0.19,2012,"Dwight Howard, Ryan Anderson, JJ Redick",7.6,"Dwight Howard",3.3,1
+"471","Orlando Magic",-7.5,0.485,13.7,25.4,0.149,0.508,11.8,74.6,0.195,2013,"JJ Redick, Nikola Vučević, Tobias Harris",2.3,"JJ Redick",0.9,-1.9
+"472","Orlando Magic",-5.7,0.487,13.9,22.4,0.193,0.504,13,75.5,0.211,2014,"Arron Afflalo, Nikola Vučević, Maurice Harkless",2.9,"Arron Afflalo",1.1,-2
+"473","Orlando Magic",-6.1,0.494,14,23.1,0.168,0.514,13.6,76,0.21,2015,"Nikola Vučević, Tobias Harris, Victor Oladipo",4.4,"Nikola Vučević",1.8,-0.4
+"474","Orlando Magic",-1.7,0.5,12.8,23.1,0.175,0.513,13.8,76.5,0.215,2016,"Victor Oladipo, Nikola Vučević, Aaron Gordon",5.7,"Victor Oladipo",2.3,-0.3
+"475","Orlando Magic",-6.8,0.489,12.1,21.6,0.184,0.523,11.9,77.4,0.201,2017,"Nikola Vučević, Elfrid Payton, Serge Ibaka",4.8,"Nikola Vučević",1.9,-0.9
+"476","Orlando Magic",-4.9,0.512,13.3,20,0.18,0.525,12.8,75.6,0.187,2018,"Nikola Vučević, Aaron Gordon, Elfrid Payton",4.1,"Nikola Vučević",2,-1
+"477","Orlando Magic",0.8,0.518,11.9,22,0.168,0.515,11.8,79.7,0.186,2019,"Nikola Vučević, Aaron Gordon, Terrence Ross",8.7,"Nikola Vučević",5.5,0.1
+"478","Orlando Magic",-1,0.506,11.5,22.3,0.198,0.535,13.2,79.1,0.176,2020,"Nikola Vučević, Evan Fournier, Jonathan Isaac",5.8,"Nikola Vučević",3.1,-0.7
+"479","Orlando Magic",-9.4,0.49,11.5,21.6,0.186,0.547,11.5,78.2,0.169,2021,"Nikola Vučević, Evan Fournier, Aaron Gordon",4.2,"Nikola Vučević",3,-0.4
+"480","Orlando Magic",-8,0.503,13,19.8,0.175,0.532,11.7,77.2,0.196,2022,"Wendell Carter Jr., Mo Bamba, Moritz Wagner",3.8,"Wendell Carter Jr.",1.7,-0.4
+"481","Orlando Magic",-2.6,0.532,13.4,23.8,0.227,0.55,13.1,77.7,0.211,2023,"Cole Anthony, Wendell Carter Jr., Franz Wagner",3.9,"Cole Anthony",1.3,-0.9
+"482","Orlando Magic",2.1,0.543,13.4,25.8,0.219,0.543,13.7,78.2,0.207,2024,"Paolo Banchero, Franz Wagner, Moritz Wagner",6.2,"Paolo Banchero",2.2,0.9
+"483","Philadelphia 76ers",2.5,0.466,13.7,30.3,0.263,0.488,16.2,72.7,0.243,2003,"Allen Iverson*, Eric Snow, Aaron McKie",8.8,"Allen Iverson*",4.8,0.3
+"484","Philadelphia 76ers",-2.8,0.456,15.5,28.2,0.242,0.467,14.7,70.7,0.231,2004,"Allen Iverson*, Aaron McKie, Samuel Dalembert",5.2,"Allen Iverson*",2.1,-0.6
+"485","Philadelphia 76ers",-0.8,0.475,14.2,25.4,0.257,0.485,15.4,72.7,0.267,2005,"Allen Iverson*, Andre Iguodala, Kyle Korver",9.6,"Allen Iverson*",5,0.2
+"486","Philadelphia 76ers",-2.1,0.487,13.3,25.6,0.27,0.5,14.3,71.3,0.24,2006,"Allen Iverson*, Andre Iguodala, Chris Webber*",8.6,"Allen Iverson*",5.3,-0.4
+"487","Philadelphia 76ers",-3.3,0.48,14.6,27.2,0.255,0.501,14.7,70.8,0.221,2007,"Andre Iguodala, Kyle Korver, Andre Miller",5.6,"Andre Iguodala",3.4,1.5
+"488","Philadelphia 76ers",0.4,0.482,13.4,31.8,0.227,0.504,15.1,72,0.205,2008,"Andre Iguodala, Andre Miller, Lou Williams",9.4,"Andre Iguodala",4.9,1
+"489","Philadelphia 76ers",0.1,0.485,13.4,31.3,0.253,0.507,14.9,71.4,0.216,2009,"Andre Iguodala, Andre Miller, Lou Williams",8.9,"Andre Iguodala",4.3,0.9
+"490","Philadelphia 76ers",-4.2,0.496,13.7,27.6,0.204,0.518,13.8,73.2,0.231,2010,"Andre Iguodala, Lou Williams, Samuel Dalembert",5.8,"Andre Iguodala",3.5,-1.7
+"491","Philadelphia 76ers",1.6,0.494,12.3,24.6,0.21,0.487,13.5,74.5,0.231,2011,"Andre Iguodala, Elton Brand, Jrue Holiday",7.6,"Andre Iguodala",3.2,-1
+"492","Philadelphia 76ers",4.7,0.48,10.9,24.4,0.161,0.46,13.5,75.2,0.192,2012,"Andre Iguodala, Lou Williams, Thaddeus Young",7.6,"Andre Iguodala",3.3,-1.6
+"493","Philadelphia 76ers",-3.7,0.481,12.5,24.9,0.146,0.495,13.7,73.4,0.2,2013,"Dorell Wright, Thaddeus Young, Jrue Holiday",6.1,"Dorell Wright",2.1,-0.2
+"494","Philadelphia 76ers",-10.5,0.475,14.8,24.8,0.19,0.524,14.9,72.4,0.244,2014,"Thaddeus Young, Michael Carter-Williams, Spencer Hawes",3.1,"Thaddeus Young",1.3,-0.2
+"495","Philadelphia 76ers",-9.3,0.459,16,25.5,0.195,0.497,15.2,73,0.225,2015,"Robert Covington, Nerlens Noel, Alexey Shved",2.6,"Robert Covington",1.3,-1.3
+"496","Philadelphia 76ers",-10.4,0.487,14.8,20.6,0.186,0.51,13.5,74,0.24,2016,"Nerlens Noel, Robert Covington, Carl Landry",1.9,"Nerlens Noel",0.9,-3.6
+"497","Philadelphia 76ers",-5.7,0.501,14.9,22.4,0.199,0.512,13.5,75.3,0.234,2017,"Joel Embiid, Robert Covington, Ersan İlyasova",4.2,"Joel Embiid",1.3,-1.1
+"498","Philadelphia 76ers",4.5,0.535,14.6,25.3,0.198,0.492,12.6,78.6,0.218,2018,"Ben Simmons, Joel Embiid, Robert Covington",9.4,"Ben Simmons",4.5,1.2
+"499","Philadelphia 76ers",2.6,0.532,12.9,24.5,0.241,0.512,11.1,78.6,0.206,2019,"Joel Embiid, Ben Simmons, Jimmy Butler",10,"Joel Embiid",3.8,0.9
+"500","Philadelphia 76ers",2.3,0.534,12.7,23.9,0.193,0.523,12.5,80.3,0.214,2020,"Ben Simmons, Joel Embiid, Al Horford",7.5,"Ben Simmons",2.8,0.5
+"501","Philadelphia 76ers",5.6,0.541,12.8,23.2,0.225,0.521,13.8,78.2,0.2,2021,"Joel Embiid, Tobias Harris, Ben Simmons",9,"Joel Embiid",3.8,1.3
+"502","Philadelphia 76ers",2.7,0.534,11.6,20.1,0.232,0.524,12.1,76.8,0.192,2022,"Joel Embiid, Tyrese Maxey, Matisse Thybulle",10.9,"Joel Embiid",6.5,0.3
+"503","Philadelphia 76ers",4.4,0.563,12.6,21.6,0.25,0.541,13,77.2,0.217,2023,"Joel Embiid, James Harden, Tobias Harris",12.1,"Joel Embiid",6.4,1.7
+"504","Philadelphia 76ers",2.2,0.528,10.6,24.9,0.223,0.54,13.1,73.9,0.22,2024,"Joel Embiid, Tyrese Maxey, Tobias Harris",8.3,"Joel Embiid",4.1,-0.6
+"505","Phoenix Suns",1.2,0.473,13.7,29.7,0.211,0.47,14.8,70.3,0.222,2003,"Shawn Marion, Stephon Marbury, Bo Outlaw",11.7,"Shawn Marion",6.5,1.4
+"506","Phoenix Suns",-4.1,0.475,14.3,26.6,0.209,0.482,14.7,69.9,0.24,2004,"Shawn Marion, Stephon Marbury, Amar'e Stoudemire",7.5,"Shawn Marion",4.6,-1.3
+"507","Phoenix Suns",7.4,0.534,12.4,27.5,0.222,0.478,12,68.3,0.176,2005,"Shawn Marion, Amar'e Stoudemire, Steve Nash*",14.2,"Shawn Marion",5.1,0.8
+"508","Phoenix Suns",5.7,0.537,12.2,22.1,0.166,0.49,13.2,72.1,0.2,2006,"Shawn Marion, Steve Nash*, Boris Diaw",14,"Shawn Marion",5.6,0.5
+"509","Phoenix Suns",7.5,0.551,13.4,22.7,0.215,0.492,13.6,71.9,0.206,2007,"Steve Nash*, Shawn Marion, Leandro Barbosa",13.2,"Steve Nash*",5.3,1
+"510","Phoenix Suns",5.2,0.551,13.4,22.4,0.228,0.488,11.8,70.9,0.191,2008,"Amar'e Stoudemire, Steve Nash*, Shawn Marion",11.6,"Amar'e Stoudemire",4.6,1.2
+"511","Phoenix Suns",2,0.545,14.4,27.7,0.25,0.511,12.8,71.7,0.233,2009,"Steve Nash*, Shaquille O'Neal*, Amar'e Stoudemire",6.7,"Steve Nash*",2.8,-0.4
+"512","Phoenix Suns",5.1,0.546,13.6,27.6,0.24,0.491,11.6,70.8,0.224,2010,"Steve Nash*, Channing Frye, Jason Richardson",9.1,"Steve Nash*",4.2,0.6
+"513","Phoenix Suns",-0.9,0.522,13.2,23.7,0.215,0.513,13.1,71.6,0.211,2011,"Steve Nash*, Jared Dudley, Marcin Gortat",6.5,"Steve Nash*",3.3,0.1
+"514","Phoenix Suns",-0.3,0.499,13.3,25.8,0.194,0.491,13.1,71.7,0.2,2012,"Steve Nash*, Marcin Gortat, Jared Dudley",6.7,"Steve Nash*",2.7,-0.9
+"515","Phoenix Suns",-6.9,0.477,14.3,27,0.174,0.512,14.2,71.9,0.208,2013,"Goran Dragić, Jared Dudley, Luis Scola",4.5,"Goran Dragić",2.2,-0.5
+"516","Phoenix Suns",2.8,0.519,14,26.4,0.222,0.496,13.9,73.7,0.237,2014,"Goran Dragić, Gerald Green, P.J. Tucker",7.9,"Goran Dragić",4,-0.2
+"517","Phoenix Suns",-0.9,0.501,13.7,24.5,0.191,0.497,14,73.5,0.221,2015,"Eric Bledsoe, Isaiah Thomas, P.J. Tucker",5.7,"Eric Bledsoe",2.9,-0.4
+"518","Phoenix Suns",-6.8,0.487,15.2,25.4,0.204,0.523,13.5,77.1,0.237,2016,"Eric Bledsoe, Mirza Teletović, Jon Leuer",4,"Eric Bledsoe",1.4,-2.5
+"519","Phoenix Suns",-5.6,0.493,13.4,26,0.231,0.525,13.1,76.4,0.264,2017,"Eric Bledsoe, Tyson Chandler, T.J. Warren",4.6,"Eric Bledsoe",3.1,-2
+"520","Phoenix Suns",-9.3,0.495,13.9,22.5,0.203,0.533,11.9,76.5,0.212,2018,"Devin Booker, Alex Len, T.J. Warren",2.9,"Devin Booker",1.4,-1
+"521","Phoenix Suns",-9.2,0.514,13.8,20.5,0.202,0.545,13.5,72.5,0.236,2019,"Devin Booker, Deandre Ayton, Richaun Holmes",3.7,"Devin Booker",1.7,-1.3
+"522","Phoenix Suns",0.3,0.532,13,22.2,0.226,0.539,13.7,78.8,0.221,2020,"Devin Booker, Mikal Bridges, Ricky Rubio",5.6,"Devin Booker",2.6,-0.3
+"523","Phoenix Suns",5.9,0.564,11.5,20.8,0.177,0.534,12.4,78.5,0.194,2021,"Chris Paul, Mikal Bridges, Deandre Ayton",8.4,"Chris Paul",3.6,0.8
+"524","Phoenix Suns",7.5,0.549,11.6,22.3,0.176,0.51,13,77.1,0.195,2022,"Chris Paul, Devin Booker, Mikal Bridges",10.2,"Chris Paul",4,2.5
+"525","Phoenix Suns",2.1,0.535,12,26.6,0.191,0.532,12.9,76,0.234,2023,"Devin Booker, Chris Paul, Mikal Bridges",7,"Devin Booker",2.9,-0.3
+"526","Phoenix Suns",2.9,0.567,13.3,25.2,0.223,0.536,11.1,75.3,0.179,2024,"Kevin Durant, Devin Booker, Grayson Allen",8.5,"Kevin Durant",4,-0.2
+"527","Portland Trail Blazers",2.9,0.489,14.5,30.2,0.223,0.483,14.9,72.3,0.194,2003,"Rasheed Wallace, Derek Anderson, Arvydas Sabonis*",7.9,"Rasheed Wallace",3.1,0.6
+"528","Portland Trail Blazers",-1.4,0.478,14.4,31.2,0.195,0.482,13.3,70,0.186,2004,"Damon Stoudamire, Rasheed Wallace, Zach Randolph",4.4,"Damon Stoudamire",1.7,-0.2
+"529","Portland Trail Blazers",-4.5,0.484,15.2,29.6,0.219,0.479,12.6,67.7,0.204,2005,"Damon Stoudamire, Shareef Abdur-Rahim, Ruben Patterson",4.4,"Damon Stoudamire",2.1,-1.4
+"530","Portland Trail Blazers",-10.8,0.474,14.5,26.6,0.214,0.507,12.6,68.2,0.231,2006,"Joel Przybilla, Steve Blake, Ruben Patterson",1.3,"Joel Przybilla",0.5,-1.3
+"531","Portland Trail Blazers",-4.8,0.483,14.5,28.2,0.241,0.508,13.5,73,0.267,2007,"Zach Randolph, Brandon Roy, Ime Udoka",5.4,"Zach Randolph",2.2,0.3
+"532","Portland Trail Blazers",-1.1,0.489,12.6,26.8,0.216,0.491,12.1,71.8,0.212,2008,"Brandon Roy, LaMarcus Aldridge, James Jones",6.2,"Brandon Roy",3.6,0.1
+"533","Portland Trail Blazers",6.1,0.511,12.5,32.6,0.234,0.499,13.2,75,0.227,2009,"Brandon Roy, LaMarcus Aldridge, Rudy Fernández",11,"Brandon Roy",6,-0.1
+"534","Portland Trail Blazers",3.7,0.499,12.1,28.2,0.249,0.502,13.3,74.8,0.219,2010,"Brandon Roy, Andre Miller, LaMarcus Aldridge",8.8,"Brandon Roy",4.1,0.5
+"535","Portland Trail Blazers",1.7,0.486,12.6,29.5,0.224,0.51,15.4,72,0.231,2011,"LaMarcus Aldridge, Andre Miller, Wesley Matthews",9.8,"LaMarcus Aldridge",3.4,1.3
+"536","Portland Trail Blazers",-0.7,0.488,13.4,26.3,0.209,0.504,14.1,72.8,0.199,2012,"LaMarcus Aldridge, Nicolas Batum, Wesley Matthews",5.8,"LaMarcus Aldridge",2.5,-0.7
+"537","Portland Trail Blazers",-3.4,0.498,13.9,25.3,0.194,0.512,12.5,73.3,0.189,2013,"Nicolas Batum, LaMarcus Aldridge, Damian Lillard",7.5,"Nicolas Batum",3.4,0.3
+"538","Portland Trail Blazers",4.1,0.504,12.4,28,0.22,0.488,11,74.7,0.194,2014,"Nicolas Batum, Damian Lillard, Wesley Matthews",13.3,"Nicolas Batum",4,1.9
+"539","Portland Trail Blazers",4.5,0.508,12.6,24.2,0.18,0.476,11.3,76.2,0.182,2015,"Damian Lillard, LaMarcus Aldridge, Wesley Matthews",10.6,"Damian Lillard",4.9,0.7
+"540","Portland Trail Blazers",0.8,0.511,13.2,25.9,0.202,0.503,12.1,76.2,0.225,2016,"Damian Lillard, CJ McCollum, Mason Plumlee",8.5,"Damian Lillard",4.3,0.1
+"541","Portland Trail Blazers",-0.5,0.52,12.5,23,0.214,0.508,11.6,76.8,0.241,2017,"Damian Lillard, CJ McCollum, Mason Plumlee",9.4,"Damian Lillard",4.8,0.4
+"542","Portland Trail Blazers",2.7,0.511,12.3,23.3,0.192,0.503,11.7,79.1,0.193,2018,"Damian Lillard, CJ McCollum, Al-Farouq Aminu",10,"Damian Lillard",6.3,0.2
+"543","Portland Trail Blazers",4.2,0.528,12.1,26.6,0.21,0.516,11,77.9,0.195,2019,"Damian Lillard, Jusuf Nurkić, CJ McCollum",10.6,"Damian Lillard",6,0.8
+"544","Portland Trail Blazers",-1.1,0.533,11.2,22.4,0.194,0.53,11.2,75.3,0.208,2020,"Damian Lillard, Hassan Whiteside, CJ McCollum",10.1,"Damian Lillard",5.9,0.6
+"545","Portland Trail Blazers",1.8,0.54,9.9,23,0.195,0.546,11.2,77.5,0.203,2021,"Damian Lillard, CJ McCollum, Enes Freedom",9.8,"Damian Lillard",5,3
+"546","Portland Trail Blazers",-9.1,0.515,13,22.9,0.188,0.559,12.7,76.9,0.222,2022,"Damian Lillard, Jusuf Nurkić, CJ McCollum",2.5,"Damian Lillard",0.9,0.2
+"547","Portland Trail Blazers",-4,0.549,13.1,22.4,0.23,0.563,12.1,74.9,0.217,2023,"Damian Lillard, Jerami Grant, Josh Hart",7.5,"Damian Lillard",4.9,-0.9
+"548","Portland Trail Blazers",-8.4,0.508,13.3,27.1,0.188,0.558,13,73.3,0.217,2024,"Malcolm Brogdon, Matisse Thybulle, Anfernee Simons",4.5,"Malcolm Brogdon",1.1,0.3
+"549","Sacramento Kings",6.8,0.499,13.3,25.6,0.196,0.446,13.6,70.6,0.204,2003,"Doug Christie, Chris Webber*, Peja Stojaković",10.6,"Doug Christie",3.6,0.6
+"550","Sacramento Kings",5.4,0.507,13,26,0.242,0.483,13.7,69.8,0.193,2004,"Peja Stojaković, Brad Miller, Mike Bibby",11.6,"Peja Stojaković",4.9,0.7
+"551","Sacramento Kings",2.3,0.496,12,28.8,0.226,0.493,13.3,69,0.214,2005,"Mike Bibby, Brad Miller, Peja Stojaković",8.8,"Mike Bibby",3.6,-0.1
+"552","Sacramento Kings",1.7,0.492,13.9,25.4,0.262,0.488,13.7,72.2,0.21,2006,"Brad Miller, Mike Bibby, Shareef Abdur-Rahim",7.5,"Brad Miller",3.3,0.2
+"553","Sacramento Kings",-1.8,0.491,13.5,23.1,0.289,0.513,14.9,72.5,0.24,2007,"Kevin Martin, Metta World Peace, Mike Bibby",8.3,"Kevin Martin",3.4,-1.6
+"554","Sacramento Kings",-2.4,0.503,14.8,25.2,0.276,0.51,13.9,71.7,0.256,2008,"Metta World Peace, Kevin Martin, Brad Miller",7.3,"Metta World Peace",2.6,0.5
+"555","Sacramento Kings",-9.2,0.491,14.3,24.5,0.252,0.526,13,69.9,0.269,2009,"Kevin Martin, John Salmons, Brad Miller",3.8,"Kevin Martin",1.3,-1.4
+"556","Sacramento Kings",-4.6,0.491,13.6,27.8,0.207,0.505,12.6,73.5,0.244,2010,"Tyreke Evans, Beno Udrih, Kevin Martin",4.2,"Tyreke Evans",2.2,-1.6
+"557","Sacramento Kings",-5.5,0.48,14.4,29.9,0.208,0.513,13.5,74.4,0.233,2011,"Beno Udrih, Tyreke Evans, Marcus Thornton",4.8,"Beno Udrih",1.7,-1.9
+"558","Sacramento Kings",-6,0.472,13,29.1,0.197,0.515,13.9,70.5,0.199,2012,"Marcus Thornton, Isaiah Thomas, Tyreke Evans",3.4,"Marcus Thornton",1.4,0.3
+"559","Sacramento Kings",-5.2,0.491,13.4,26.6,0.208,0.517,13.6,71,0.227,2013,"Tyreke Evans, Isaiah Thomas, DeMarcus Cousins",4.4,"Tyreke Evans",1.9,-0.8
+"560","Sacramento Kings",-3.1,0.484,13.9,27.8,0.251,0.512,12.7,76.6,0.234,2014,"DeMarcus Cousins, Isaiah Thomas, Rudy Gay",9.4,"DeMarcus Cousins",4.2,-1.3
+"561","Sacramento Kings",-3.9,0.49,14.8,26.5,0.276,0.507,11.8,75.2,0.2,2015,"DeMarcus Cousins, Rudy Gay, Darren Collison",7.7,"DeMarcus Cousins",3.2,-1.1
+"562","Sacramento Kings",-2.4,0.51,14.2,23.9,0.214,0.521,14,74.9,0.202,2016,"DeMarcus Cousins, Rajon Rondo, Darren Collison",6.1,"DeMarcus Cousins",3,-1.1
+"563","Sacramento Kings",-4,0.516,13.7,21,0.22,0.528,12.9,76.3,0.227,2017,"DeMarcus Cousins, Rudy Gay, Darren Collison",6,"DeMarcus Cousins",4.4,-1
+"564","Sacramento Kings",-7.4,0.502,12.8,21.5,0.143,0.542,13.5,77.6,0.199,2018,"Buddy Hield, Willie Cauley-Stein, Kosta Koufos",3.1,"Buddy Hield",1.5,0.4
+"565","Sacramento Kings",-1.1,0.524,11.5,23.1,0.177,0.533,13.6,75.5,0.207,2019,"Buddy Hield, De'Aaron Fox, Willie Cauley-Stein",6.8,"Buddy Hield",2.7,-0.4
+"566","Sacramento Kings",-2,0.534,13,21.9,0.177,0.543,13.6,78.4,0.225,2020,"Nemanja Bjelica, Buddy Hield, De'Aaron Fox",5.2,"Nemanja Bjelica",1.9,-0.3
+"567","Sacramento Kings",-3.6,0.549,12,21.3,0.185,0.557,12.1,75,0.199,2021,"De'Aaron Fox, Tyrese Haliburton, Richaun Holmes",4.7,"De'Aaron Fox",2,-0.4
+"568","Sacramento Kings",-5.4,0.525,12.5,21.3,0.203,0.551,11.9,76,0.176,2022,"Tyrese Haliburton, Harrison Barnes, De'Aaron Fox",4.1,"Tyrese Haliburton",2,-0.2
+"569","Sacramento Kings",2.6,0.572,12,22.7,0.225,0.563,12.6,77.2,0.203,2023,"Domantas Sabonis, De'Aaron Fox, Kevin Huerter",9.8,"Domantas Sabonis",5.4,1.1
+"570","Sacramento Kings",1.6,0.56,11.7,24.1,0.173,0.558,12.5,78.4,0.215,2024,"Domantas Sabonis, De'Aaron Fox, Malik Monk",9.2,"Domantas Sabonis",5.6,0.7
+"571","San Antonio Spurs",5.9,0.497,15.1,28.8,0.253,0.453,14.2,71.3,0.199,2003,"Tim Duncan*, David Robinson*, Tony Parker*",12.9,"Tim Duncan*",7.7,0.5
+"572","San Antonio Spurs",8.1,0.473,14.1,29.5,0.219,0.433,14.8,74.6,0.215,2004,"Tim Duncan*, Manu Ginóbili*, Hedo Türkoğlu",12.8,"Tim Duncan*",6.7,-0.1
+"573","San Antonio Spurs",8.7,0.492,13.2,29.1,0.238,0.452,14.7,73.6,0.236,2005,"Tim Duncan*, Manu Ginóbili*, Tony Parker*",13.1,"Tim Duncan*",5.4,-0.3
+"574","San Antonio Spurs",7.7,0.513,13.6,26,0.209,0.457,13.5,74.2,0.22,2006,"Tim Duncan*, Manu Ginóbili*, Tony Parker*",12.3,"Tim Duncan*",4.9,1.3
+"575","San Antonio Spurs",9.3,0.521,13.6,24.2,0.235,0.471,14,75.7,0.201,2007,"Tim Duncan*, Manu Ginóbili*, Tony Parker*",14.5,"Tim Duncan*",6.2,-0.1
+"576","San Antonio Spurs",5.4,0.504,12.6,23.4,0.21,0.477,12.8,77.1,0.201,2008,"Manu Ginóbili*, Tim Duncan*, Tony Parker*",13.4,"Manu Ginóbili*",6,1.4
+"577","San Antonio Spurs",4.2,0.513,11.7,22.1,0.191,0.487,11.7,78,0.191,2009,"Tim Duncan*, Tony Parker*, Manu Ginóbili*",10.6,"Tim Duncan*",4.7,1.6
+"578","San Antonio Spurs",5.5,0.515,12.9,26.8,0.219,0.483,12.1,76.3,0.214,2010,"Tim Duncan*, Manu Ginóbili*, George Hill",11.4,"Tim Duncan*",5,-0.5
+"579","San Antonio Spurs",6.2,0.527,12.8,24.9,0.229,0.491,12.6,74.6,0.19,2011,"Manu Ginóbili*, Tim Duncan*, Tony Parker*",10.4,"Manu Ginóbili*",4.5,1
+"580","San Antonio Spurs",7.7,0.528,12.8,25.1,0.195,0.489,12.9,76,0.168,2012,"Tony Parker*, Tim Duncan*, Kawhi Leonard",6.6,"Tony Parker*",2.3,2
+"581","San Antonio Spurs",6.7,0.531,14,20.5,0.204,0.48,13.7,74.9,0.179,2013,"Tim Duncan*, Tony Parker*, Danny Green",9.6,"Tim Duncan*",3.8,1
+"582","San Antonio Spurs",8.1,0.537,13.5,22.7,0.188,0.482,12.8,76.4,0.184,2014,"Kawhi Leonard, Tim Duncan*, Manu Ginóbili*",8.8,"Kawhi Leonard",3.5,1.7
+"583","San Antonio Spurs",6.5,0.517,13.1,23.4,0.2,0.484,13.3,77.3,0.19,2015,"Kawhi Leonard, Tim Duncan*, Danny Green",11.9,"Kawhi Leonard",4.1,0.2
+"584","San Antonio Spurs",11.3,0.526,12.4,23,0.197,0.477,14.1,79.1,0.182,2016,"Kawhi Leonard, LaMarcus Aldridge, Tim Duncan*",11.2,"Kawhi Leonard",6.7,1.8
+"585","San Antonio Spurs",7.6,0.524,12.6,24,0.21,0.492,13.5,77.6,0.192,2017,"Kawhi Leonard, Pau Gasol*, LaMarcus Aldridge",11.3,"Kawhi Leonard",7.1,2.3
+"586","San Antonio Spurs",3.1,0.507,12.2,23.7,0.189,0.507,13.2,78.6,0.17,2018,"LaMarcus Aldridge, Pau Gasol*, Kyle Anderson",8.6,"LaMarcus Aldridge",3.7,0.5
+"587","San Antonio Spurs",1.7,0.534,11,21,0.194,0.528,11,79.4,0.17,2019,"LaMarcus Aldridge, DeMar DeRozan, Rudy Gay",6.4,"LaMarcus Aldridge",2.6,0.8
+"588","San Antonio Spurs",-1.1,0.531,11.2,20.1,0.212,0.542,11.7,79.2,0.193,2020,"DeMar DeRozan, LaMarcus Aldridge, Derrick White",5.2,"DeMar DeRozan",2.3,-0.5
+"589","San Antonio Spurs",-1.8,0.517,10.2,20,0.192,0.541,11.8,77.3,0.174,2021,"DeMar DeRozan, Dejounte Murray, Jakob Poeltl",5.4,"DeMar DeRozan",2.6,-0.6
+"590","San Antonio Spurs",0.1,0.527,11.1,23.7,0.166,0.532,12.1,75.1,0.176,2022,"Dejounte Murray, Jakob Poeltl, Derrick White",7.5,"Dejounte Murray",4.4,-1.6
+"591","San Antonio Spurs",-9.8,0.525,13,25.6,0.17,0.576,12,74.9,0.201,2023,"Jakob Poeltl, Devin Vassell, Zach Collins",2.2,"Jakob Poeltl",0.9,-1.3
+"592","San Antonio Spurs",-7.3,0.53,13,22.8,0.174,0.562,11.8,76.1,0.179,2024,"Victor Wembanyama, Devin Vassell, Tre Jones",4.8,"Victor Wembanyama",3,-2.1
+"593","Toronto Raptors",-6.5,0.458,13.6,28.2,0.203,0.489,13.1,70.7,0.226,2003,"Vince Carter, Alvin Williams, Jerome Williams",5,"Vince Carter",2.4,-0.4
+"594","Toronto Raptors",-3.4,0.454,14.1,23.8,0.195,0.449,14.1,70.1,0.241,2004,"Vince Carter, Donyell Marshall, Morris Peterson",8.4,"Vince Carter",3.9,-1
+"595","Toronto Raptors",-1.8,0.492,12.5,23.7,0.244,0.499,13.4,71.1,0.24,2005,"Donyell Marshall, Rafer Alston, Morris Peterson",7.7,"Donyell Marshall",2.9,0.6
+"596","Toronto Raptors",-3.2,0.5,12.4,25.4,0.249,0.53,13.5,73.3,0.263,2006,"Chris Bosh*, Mike James, Morris Peterson",8.2,"Chris Bosh*",3.4,-1.3
+"597","Toronto Raptors",1,0.504,13,22.2,0.239,0.503,14.3,74.5,0.219,2007,"Chris Bosh*, Anthony Parker, T.J. Ford",8.4,"Chris Bosh*",3.1,0.5
+"598","Toronto Raptors",3.2,0.511,11.4,23.4,0.2,0.505,13.5,75,0.205,2008,"José Calderón, Chris Bosh*, Jamario Moon",10.2,"José Calderón",4.1,-0.7
+"599","Toronto Raptors",-3,0.494,12.8,24,0.23,0.511,12.6,73.7,0.202,2009,"Chris Bosh*, José Calderón, Jamario Moon",7.9,"Chris Bosh*",3.5,-0.4
+"600","Toronto Raptors",-1.9,0.521,12.7,24.7,0.244,0.513,11.8,72.9,0.247,2010,"Chris Bosh*, Jarrett Jack, Hedo Türkoğlu",6.4,"Chris Bosh*",3.6,1
+"601","Toronto Raptors",-6.8,0.491,13.7,28.2,0.221,0.522,13,72,0.251,2011,"José Calderón, Amir Johnson, Julian Wright",3.8,"José Calderón",1.5,-2.2
+"602","Toronto Raptors",-3.7,0.475,14.8,25.9,0.211,0.475,12.8,75.4,0.26,2012,"José Calderón, James Johnson, Andrea Bargnani",3.8,"José Calderón",1.7,-1.8
+"603","Toronto Raptors",-1.6,0.488,13,25.5,0.216,0.5,13.6,73.4,0.247,2013,"Kyle Lowry, José Calderón, Amir Johnson",6.1,"Kyle Lowry",2.5,-2.4
+"604","Toronto Raptors",3.5,0.498,13.2,27.2,0.239,0.493,14.1,74.9,0.237,2014,"Kyle Lowry, DeMar DeRozan, Amir Johnson",9.1,"Kyle Lowry",4.8,0.6
+"605","Toronto Raptors",3.3,0.508,12,25.6,0.232,0.506,13.4,73.3,0.208,2015,"Kyle Lowry, Patrick Patterson, Lou Williams",7.8,"Kyle Lowry",3.1,-0.6
+"606","Toronto Raptors",4.8,0.504,12.3,24.6,0.255,0.498,12.7,77.7,0.201,2016,"Kyle Lowry, DeMar DeRozan, Jonas Valančiūnas",10.3,"Kyle Lowry",5.7,1.1
+"607","Toronto Raptors",4.5,0.517,11.8,25,0.233,0.507,13.5,76.3,0.223,2017,"Kyle Lowry, DeMar DeRozan, Jonas Valančiūnas",9.1,"Kyle Lowry",4.6,1.3
+"608","Toronto Raptors",7.9,0.539,12.1,23,0.198,0.501,13,77.7,0.212,2018,"Kyle Lowry, DeMar DeRozan, Delon Wright",11.5,"Kyle Lowry",4.5,0.5
+"609","Toronto Raptors",6,0.543,12.4,21.9,0.198,0.509,13.1,77.1,0.19,2019,"Kawhi Leonard, Pascal Siakam, Kyle Lowry",9.9,"Kawhi Leonard",4.7,1.1
+"610","Toronto Raptors",6.1,0.536,13.1,21.3,0.21,0.502,14.6,76.7,0.202,2020,"Kyle Lowry, Fred VanVleet, Pascal Siakam",7.1,"Kyle Lowry",2.8,2
+"611","Toronto Raptors",-0.5,0.529,11.9,20.8,0.196,0.543,14.4,76.3,0.234,2021,"Fred VanVleet, Chris Boucher, Kyle Lowry",5.7,"Fred VanVleet",2.2,-1.4
+"612","Toronto Raptors",2.4,0.51,11,28.4,0.177,0.535,14.4,75.6,0.199,2022,"Pascal Siakam, Fred VanVleet, Scottie Barnes",9,"Pascal Siakam",3.6,0.9
+"613","Toronto Raptors",1.5,0.517,10.3,27.8,0.201,0.565,15.3,76.7,0.223,2023,"Pascal Siakam, Fred VanVleet, Scottie Barnes",7.9,"Pascal Siakam",3.4,0
+"614","Toronto Raptors",-5.1,0.538,12.1,24.4,0.179,0.56,12.2,74.1,0.172,2024,"Scottie Barnes, Pascal Siakam, Jakob Poeltl",5.1,"Scottie Barnes",3,-0.9
+"615","Utah Jazz",2.7,0.486,16,32.5,0.283,0.468,15.2,70.2,0.256,2003,"Karl Malone*, Andrei Kirilenko, John Stockton*",13,"Karl Malone*",4.6,0.5
+"616","Utah Jazz",-1.4,0.456,16.1,34.1,0.266,0.468,15.4,72.4,0.319,2004,"Andrei Kirilenko, Carlos Arroyo, Greg Ostertag",10.1,"Andrei Kirilenko",7.2,1
+"617","Utah Jazz",-4.8,0.469,15,31.9,0.273,0.499,14.2,72.3,0.34,2005,"Andrei Kirilenko, Mehmet Okur, Carlos Boozer",7.6,"Andrei Kirilenko",3.8,-1.5
+"618","Utah Jazz",-2.9,0.467,15,32.4,0.286,0.49,14,73.2,0.303,2006,"Andrei Kirilenko, Mehmet Okur, Carlos Boozer",9.4,"Andrei Kirilenko",5.6,0.2
+"619","Utah Jazz",3.1,0.502,14.5,31.7,0.283,0.496,14.4,75.1,0.314,2007,"Carlos Boozer, Andrei Kirilenko, Mehmet Okur",10.1,"Carlos Boozer",4.3,1.1
+"620","Utah Jazz",7.3,0.528,13.6,29.5,0.265,0.501,15,74.1,0.294,2008,"Deron Williams, Andrei Kirilenko, Carlos Boozer",12,"Deron Williams",4.5,-0.1
+"621","Utah Jazz",2.8,0.504,13.6,28.2,0.274,0.505,15,72.7,0.262,2009,"Deron Williams, Ronnie Brewer, Andrei Kirilenko",8.3,"Deron Williams",3.8,0.1
+"622","Utah Jazz",5.7,0.524,14.2,26.8,0.252,0.492,14.2,75.6,0.269,2010,"Deron Williams, Carlos Boozer, Andrei Kirilenko",10.8,"Deron Williams",4.1,-0.5
+"623","Utah Jazz",-2,0.498,13.5,27,0.241,0.505,13.8,71.7,0.275,2011,"Deron Williams, Paul Millsap, Andrei Kirilenko",7.5,"Deron Williams",2.9,0.1
+"624","Utah Jazz",0.7,0.481,13,30.2,0.227,0.493,13.8,73.8,0.245,2012,"Paul Millsap, Al Jefferson, Gordon Hayward",7.9,"Paul Millsap",3.1,0.2
+"625","Utah Jazz",-0.1,0.492,13.8,28.8,0.214,0.501,14,73.2,0.226,2013,"Al Jefferson, Paul Millsap, Gordon Hayward",7.7,"Al Jefferson",2.8,0.3
+"626","Utah Jazz",-7.8,0.484,13.9,25.5,0.202,0.518,12.1,74.5,0.227,2014,"Gordon Hayward, Derrick Favors, Marvin Williams",4.1,"Gordon Hayward",2,-1
+"627","Utah Jazz",0.2,0.494,14.6,29.1,0.214,0.491,12.8,76.3,0.199,2015,"Gordon Hayward, Rudy Gobert, Derrick Favors",10,"Gordon Hayward",4,-0.1
+"628","Utah Jazz",2,0.501,14.2,25.9,0.213,0.495,13.5,77.7,0.21,2016,"Gordon Hayward, Derrick Favors, Rudy Gobert",7.9,"Gordon Hayward",3.3,-2.2
+"629","Utah Jazz",4.3,0.526,13.2,23.2,0.215,0.493,11.8,78.9,0.195,2017,"Gordon Hayward, Rudy Gobert, George Hill",11.2,"Gordon Hayward",4.5,0.9
+"630","Utah Jazz",4.5,0.527,13.7,21.5,0.202,0.506,14,79.8,0.19,2018,"Joe Ingles, Rudy Gobert, Donovan Mitchell",7.5,"Joe Ingles",2.8,1
+"631","Utah Jazz",5.2,0.538,13.4,22.9,0.217,0.507,12.4,80.3,0.189,2019,"Rudy Gobert, Derrick Favors, Donovan Mitchell",11.6,"Rudy Gobert",4.8,0.4
+"632","Utah Jazz",2.4,0.549,13.7,21.6,0.208,0.518,11.1,78.9,0.185,2020,"Rudy Gobert, Donovan Mitchell, Royce O'Neale",8.6,"Rudy Gobert",3.3,1
+"633","Utah Jazz",9.3,0.563,12.7,24.5,0.195,0.507,10.3,79.3,0.159,2021,"Rudy Gobert, Donovan Mitchell, Joe Ingles",11.8,"Rudy Gobert",3.8,1.2
+"634","Utah Jazz",6.2,0.555,12.7,25.4,0.208,0.521,10.9,78.3,0.164,2022,"Rudy Gobert, Donovan Mitchell, Mike Conley",9.9,"Rudy Gobert",3.6,-0.3
+"635","Utah Jazz",-0.9,0.547,13.3,26.8,0.209,0.541,10.9,75.2,0.205,2023,"Lauri Markkanen, Walker Kessler, Kelly Olynyk",6.6,"Lauri Markkanen",3.3,0.4
+"636","Utah Jazz",-4.1,0.541,13.4,28.4,0.208,0.567,10.7,75.8,0.184,2024,"Lauri Markkanen, Collin Sexton, Kelly Olynyk",5.7,"Lauri Markkanen",2.5,1
+"637","Washington Wizards",-1.1,0.46,13,27.3,0.253,0.477,13.8,71.6,0.212,2003,"Michael Jordan*, Jerry Stackhouse, Christian Laettner",7.3,"Michael Jordan*",2.8,-0.4
+"638","Washington Wizards",-6,0.454,16,30.7,0.241,0.486,14.9,69.5,0.214,2004,"Larry Hughes, Gilbert Arenas, Kwame Brown",3.4,"Larry Hughes",1.5,-1.5
+"639","Washington Wizards",-0.3,0.474,12.9,31.1,0.264,0.498,14.6,70,0.23,2005,"Gilbert Arenas, Larry Hughes, Antawn Jamison",9.9,"Gilbert Arenas",5.2,0.3
+"640","Washington Wizards",2,0.484,12.8,29.5,0.284,0.504,15.1,70.9,0.256,2006,"Gilbert Arenas, Antawn Jamison, Caron Butler",10.7,"Gilbert Arenas",6.3,-0.3
+"641","Washington Wizards",-0.5,0.491,12.6,28.1,0.272,0.517,14.4,71,0.249,2007,"Gilbert Arenas, Antawn Jamison, Caron Butler",9,"Gilbert Arenas",5,-1.7
+"642","Washington Wizards",-0.4,0.489,12.5,28.9,0.233,0.513,13.5,72.8,0.217,2008,"Caron Butler, Antawn Jamison, DeShawn Stevenson",7.6,"Caron Butler",3.5,0.4
+"643","Washington Wizards",-8.2,0.48,13.2,27.7,0.224,0.533,13.3,71.4,0.227,2009,"Antawn Jamison, Caron Butler, Dominic McGuire",5.2,"Antawn Jamison",2.8,-1.8
+"644","Washington Wizards",-5.2,0.481,13.9,27.6,0.216,0.502,12.8,72.4,0.239,2010,"Andray Blatche, Mike Miller, Gilbert Arenas",4.1,"Andray Blatche",1.5,-0.9
+"645","Washington Wizards",-7.8,0.471,13.9,28,0.216,0.512,14.4,70.5,0.249,2011,"JaVale McGee, John Wall, Andray Blatche",2.3,"JaVale McGee",0.9,-1.5
+"646","Washington Wizards",-5.2,0.472,14.2,27.3,0.184,0.492,14.2,70.9,0.229,2012,"John Wall, JaVale McGee, Nenê",2.7,"John Wall",1.6,-1.4
+"647","Washington Wizards",-2.8,0.475,14.2,24.6,0.191,0.483,13.7,74.6,0.206,2013,"John Wall, Trevor Ariza, Martell Webster",5.6,"John Wall",2.4,-1.9
+"648","Washington Wizards",1.4,0.506,13.6,25.2,0.181,0.504,15,75.7,0.22,2014,"John Wall, Trevor Ariza, Marcin Gortat",8.4,"John Wall",3.6,-0.9
+"649","Washington Wizards",0.7,0.499,14,24.9,0.192,0.481,12.9,77.3,0.21,2015,"John Wall, Marcin Gortat, Paul Pierce*",7.8,"John Wall",4,-1.2
+"650","Washington Wizards",-0.5,0.511,13.1,20.6,0.192,0.515,14.6,77.7,0.218,2016,"John Wall, Otto Porter Jr., Marcin Gortat",7.2,"John Wall",3.9,0
+"651","Washington Wizards",1.9,0.528,12.8,24.1,0.199,0.524,13.8,75.5,0.213,2017,"John Wall, Bradley Beal, Otto Porter Jr.",11.8,"John Wall",4.8,1.4
+"652","Washington Wizards",0.6,0.525,13.3,23.5,0.196,0.522,13.6,77.1,0.212,2018,"Otto Porter Jr., Bradley Beal, John Wall",8.3,"Otto Porter Jr.",3.4,-0.4
+"653","Washington Wizards",-2.8,0.531,12.3,21.3,0.204,0.546,13.5,74.1,0.199,2019,"Bradley Beal, Thomas Bryant, John Wall",6,"Bradley Beal",3.7,-0.8
+"654","Washington Wizards",-4.6,0.523,12.2,22.2,0.213,0.558,13.9,75.3,0.231,2020,"Bradley Beal, Thomas Bryant, Dāvis Bertāns",4.8,"Bradley Beal",2.5,-1.5
+"655","Washington Wizards",-1.8,0.531,12.3,21.3,0.221,0.539,12.5,77.6,0.217,2021,"Russell Westbrook, Bradley Beal, Daniel Gafford",6.9,"Russell Westbrook",3.4,0.3
+"656","Washington Wizards",-3.4,0.532,12.1,20.9,0.197,0.529,10.7,76.9,0.202,2022,"Montrezl Harrell, Daniel Gafford, Kyle Kuzma",5.2,"Montrezl Harrell",1.9,1.4
+"657","Washington Wizards",-1.2,0.55,12.7,22.6,0.202,0.54,11,76.1,0.194,2023,"Kristaps Porziņģis, Delon Wright, Bradley Beal",6.7,"Kristaps Porziņģis",3.4,-0.9
+"658","Washington Wizards",-9.4,0.536,12.2,20.6,0.17,0.564,12.1,72,0.2,2024,"Tyus Jones, Daniel Gafford, Kyle Kuzma",3.2,"Tyus Jones",1.3,-3.8
